@@ -1,7 +1,7 @@
 ---
 layout: post_projects
 author: Julia Stoyanovich
-title: Data Synthesizer: privacy-preserving synthetic data generation
+title: Data Synthesizer, privacy-preserving synthetic data generation
 category: projects
 ---
 
