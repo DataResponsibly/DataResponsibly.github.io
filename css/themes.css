@@ -74,6 +74,10 @@ header .navbar {
 }
 header .navbar-brand {
   padding-top: 5px;
+  width: 80%;
+}
+header .navbar-brand img{
+  width: 100%;
 }
 header .navbar-default {
   background: none;
