@@ -449,7 +449,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio-work .block .portfolio-contant ul img {
+#portfolio-work .block .portfolio-contant ul li a img {
   width: 100%;
   height: 170px;
 }
@@ -490,13 +490,13 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 80px 0;
 }
 #portfolio-contant-active-friends{
-  padding-left: 38%;
+  padding-left: 20%;
   margin: 0 auto;
   position: relative;
 }
 #portfolio-friends .block .portfolio-contant ul li {
   float: left;
-  width: 50%;
+  width: 40%;
   overflow: hidden;
   margin: 10px;
   position: relative;
@@ -529,9 +529,9 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio-friends .block .portfolio-contant ul img {
+#portfolio-friends .block .portfolio-contant ul li a img {
   width: 100%;
-  height: 90px;
+  height: 100px;
 }
 #portfolio-friends .block .portfolio-contant .overly {
   position: absolute;
@@ -548,8 +548,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-friends .block .portfolio-contant .position-center {
   position: absolute;
-  top: 50%;
-  left: 20%;
+  top: 40%;
+  left: 5%;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
