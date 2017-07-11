@@ -558,6 +558,9 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
+.tab-space {
+  padding-left:9em;
+}
 /*--
 	portfolio-friends End
 --*/
