@@ -2,7 +2,8 @@
 <html class="no-js">
   <head>
 
-    <meta charset="utf-8">
+    
+<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Tools</title>
 <meta name="description" content="">
@@ -32,6 +33,15 @@
 
 <script src="/js/main.js"></script>
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106934105-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106934105-1');
+</script>
 
 
   </head>
@@ -55,21 +65,23 @@
             <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="index.html">
-              <img src="/img/header_logo.png" alt="Logo">
+              <img src="/img/header_logo.png" class="img-responsive" alt="Logo">
             </a>
           </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="/">Home</a></li>
-                <li><a href="/projects">Projects</a></li>
                 <li><a href="/publications">Publications</a></li>
                 <li><a href="/talks">Talks</a></li>
                 <li><a href="/tools">Tools</a></li>
+                <li><a href="/funds">Funds</a></li>
+                <li><a href="/friends">Friends</a></li>
                 <li><a href="/contact">Contact</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
+          <div><p></p></div>
         </nav>
       </div>
     </div>
@@ -84,8 +96,8 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>Get our latest tools</h1>
-          <p>Catch up with us, anytime and anywhere</p>
+          <h1>Tools</h1>
+          <p>all our code is open-source</p>
         </div>
       </div>
     </div>
@@ -97,43 +109,33 @@
           <div class="col-md-12">
             <div class="block">
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
+                <ul id="portfolio-contant-active-tools">
                     <li>
-                      <a href="https://github.com/DataResponsibly/DataSynthesizer">
-                        <img src="/img/rsz_datasynthesizer_logo.png" alt="">
+                      <a href="http://demo.dataresponsibly.com/synthesizer">
+                        <img src="/img/DataSynthesizer_Logo.png" alt="datasynthesizer">
                         <div class="overly">
                           <div class="position-center">
                             <h2>Data Synthesizer</h2>
-                            <p>Generate privacy-preserving synthetic datasets</p>
-
+                            <p>Privacy-preserving synthetic datasets</p>
                           </div>
                         </div>
                       </a>
-                  </li>
+                    </li>
+
                   <li>
-                    <a href="https://github.com/DataResponsibly/FairRank">
-                      <img src="/img/rsz_fair_rank_logo.png" alt="">
+                    <a href="http://demo.dataresponsibly.com/rankingfacts">
+                     <!-- <img src="/img/rsz_fair_rank_logo.png" alt=""> -->
+                      <img src="/img/TranspaRank_Logo.png" alt="transparentrank">
                       <div class="overly">
                         <div class="position-center">
-                          <h2>FairRank</h2>
+                          <h2>Fairness and ransparency in rankings</h2>
                           <p>Making ranking fair</p>
 
                         </div>
                       </div>
                     </a>
                   </li>
-                  <li>
-                    <a href="#">
-                      <img src="/img/rsz_transparank_logo.png" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Transparency in Ranking</h2>
-                          <p>Rankings facts displayed as nutritional label</p>
 
-                        </div>
-                      </div>
-                    </a>
-                  </li>
                   <!--<li>-->
                     <!--<a href="#">-->
                       <!--<img src="/img/rsz_fides_logo.png" alt="">-->

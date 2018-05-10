@@ -74,6 +74,10 @@ header .navbar {
 }
 header .navbar-brand {
   padding-top: 5px;
+  width: 80%;
+}
+header .navbar-brand img{
+  width: 100%;
 }
 header .navbar-default {
   background: none;
@@ -404,73 +408,17 @@ font header .navbar-default .navbar-nav li a:hover {
   overflow: hidden;
   padding: 80px 0;
 }
-#portfolio-work .block .portfolio-menu {
-  padding-bottom: 30px;
-  text-align: center;
-}
-#portfolio-work .block .portfolio-menu ul {
-  border: 1px solid #999999;
-  display: inline-block;
-  margin-bottom: 40px;
-}
-#portfolio-work .block .portfolio-menu ul li {
-  display: inline-block;
-  padding: 0px 25px;
-  cursor: pointer;
-  font-size: 15px;
-  line-height: 40px;
-  font-weight: 600;
-  color: #333333;
-  text-transform: capitalize;
-  position: relative;
-}
-#portfolio-work .block .portfolio-menu ul .active {
-  color: #655E7A;
-  position: relative;
-}
-#portfolio-work .block .portfolio-menu ul .active:before {
-  content: "\f0d7";
-  position: absolute;
-  font-family: 'FontAwesome';
-  bottom: -18px;
-  font-size: 30px;
-  width: 20px;
-  left: 0px;
-  right: 0px;
-  top: 23px;
+
+#portfolio-contant-active-tools{
+  padding-left: 35%;
   margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-#portfolio-work .block .portfolio-menu ul li:hover:before {
-  content: "\f0d7";
-  position: absolute;
-  font-family: 'FontAwesome';
-  bottom: -18px;
-  font-size: 30px;
-  width: 20px;
-  left: 0px;
-  right: 0px;
-  top: 24px;
-  margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
+  position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 30%;
   overflow: hidden;
-  margin: 6px;
+  margin: 10px;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
@@ -489,7 +437,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #fff;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
-  font-size: 22px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -501,9 +449,9 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio-work .block .portfolio-contant ul img {
+#portfolio-work .block .portfolio-contant ul li a img {
   width: 100%;
-  height: auto;
+  height: 170px;
 }
 #portfolio-work .block .portfolio-contant .overly {
   position: absolute;
@@ -521,7 +469,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 10%;
+  left: 5%;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
@@ -530,9 +478,93 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
-#portfolio-work .block .mix {
-  display: none;
+/*--
+	portfolio-tools End
+--*/
+
+/*--
+	portfolio-friends Start
+--*/
+#portfolio-friends {
+  overflow: hidden;
+  padding: 80px 0;
 }
+#portfolio-contant-active-friends{
+  padding-left: 20%;
+  margin: 0 auto;
+  position: relative;
+}
+#portfolio-friends .block .portfolio-contant ul li {
+  float: left;
+  width: 40%;
+  overflow: hidden;
+  margin: 10px;
+  position: relative;
+}
+#portfolio-friends .block .portfolio-contant ul li:hover .overly {
+  opacity: 1;
+}
+#portfolio-friends .block .portfolio-contant ul li:hover .position-center {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+  -moz-transform: translate(0%, -50%);
+  -ms-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+#portfolio-friends .block .portfolio-contant ul li a {
+  display: block;
+  color: #fff;
+}
+#portfolio-friends .block .portfolio-contant ul li a h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#portfolio-friends .block .portfolio-contant ul li a p {
+  font-size: 15px;
+}
+#portfolio-friends .block .portfolio-contant ul li a span {
+  font-style: italic;
+  font-size: 13px;
+  color: #655E7A;
+}
+#portfolio-friends .block .portfolio-contant ul li a img {
+  width: 100%;
+  height: 100px;
+}
+#portfolio-friends .block .portfolio-contant .overly {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+  text-align: center;
+}
+#portfolio-friends .block .portfolio-contant .position-center {
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  -webkit-transform: translate(0%, 50%);
+  -moz-transform: translate(0%, 50%);
+  -ms-transform: translate(0%, 50%);
+  transform: translate(0%, 50%);
+  -webkit-transition: .5s all;
+  -o-transition: .5s all;
+  transition: .5s all;
+}
+.tab-space {
+  padding-left:9em;
+}
+/*--
+	portfolio-friends End
+--*/
+
 /*--
 	wrapper-tools Start
 --*/

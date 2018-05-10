@@ -108,6 +108,36 @@ px      68    160    252    344    436    528    620    712    */
     line-height: 20px;
     padding-top: 15px;
   }
+
+  /*-- portfolio-friends
+
+  --*/
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading {
+    padding: 5px 0 5px 13px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading h2 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading p {
+    font-size: 11px;
+    line-height: 20px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay {
+    padding-left: 15px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay h2 {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay p {
+    font-size: 11px;
+    line-height: 20px;
+    padding-top: 15px;
+  }
+
   /*--
 	wrapper Start 
 --*/
@@ -305,6 +335,41 @@ px      68    160    252    */
     padding-top: 15px;
     padding-right: 5px;
   }
+
+  /*--
+	Portfolio-friends
+--*/
+  #portfolio-friends .block .portfolio-contant ul li {
+    width: 100%;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading {
+    padding: 5px 0 5px 13px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading h2 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .img-heading p {
+    font-size: 11px;
+    line-height: 20px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay {
+    padding-left: 15px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay h2 {
+    padding-top: 65px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #portfolio-friends .block .portfolio-contant ul li a .overlay p {
+    font-size: 11px;
+    line-height: 20px;
+    padding-top: 15px;
+    padding-right: 5px;
+  }
+
+
   /*--
 	wrapper Start 
 --*/
