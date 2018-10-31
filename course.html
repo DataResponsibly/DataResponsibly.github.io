@@ -8,173 +8,162 @@ author: Julia Stoyanovich
 
 <div class="container-lg px-3 my-5 markdown-body">
 
-  <h1><a href="{{ site.baseurl }}/course">Spring Course</a></h1>
+  <h1><a href="{{ site.baseurl }}/course">DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science</a></h1>
 
 
-  <p>Below content is placeholder. Content will be updated soon. Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+  <p><strong>Lecture:</strong> Mondays from 11am-12:40pm; Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
+  <p><strong>Instructor:</strong><a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a>, Assistant Professor of Data Science, Computer Science and Engineering</p>
 
-  <p><a href="{{ site.baseurl }}/talks">Link to talk</a>.</p>
+<!-- Below content is placeholder. Content will be updated soon. Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p> -->
 
-  <p>There should be whitespace between paragraphs.</p>
+  <p>The first wave of data science focused on accuracy and
+    efficiency -- on what we <em>can</em> do with data. The second
+    wave focuses on responsibility -- on what we <em>should</em>
+    and <em>shouldn't</em> do. Irresponsible use of data science can
+    cause harm on an unprecedented scale. Algorithmic changes in
+    search engines can sway elections and incite violence;
+    irreproducible results can influence global economic policy;
+    models based on biased data can legitimize and amplify racist
+    policies in the criminal justice system; algorithmic hiring
+    practices can silently and scalably violate equal opportunity
+    laws, exposing companies to lawsuits and reinforcing the feedback
+    loops that lead to lack of diversity.  Therefore, as we develop
+    and deploy data science methods, we are compelled to think about
+    the effects these methods have on individuals, population groups,
+    and on society at large.</p>
 
-  <p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+ <p>Responsible Data Science is a technical course that tackles the
+   issues of ethics, legal compliance, data quality, algorithmic
+   fairness and diversity, transparency of data and algorithms,
+   privacy, and data protection. The course is developed and taught by
+   <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a>, Assistant Professor at the Center for Data
+   Science and at the Tandon School of Engineering, and member of the
+   <a href="https://www1.nyc.gov/office-of-the-mayor/news/251-18/mayor-de-blasio-first-in-nation-task-force-examine-automated-decision-systems-used-by">NYC Automated Decision Systems Task Force</a>.</p>
 
-  <h1 id="header-1">Header 1</h1>
+ <p><strong>Prerequisites:</strong> Introduction to Data Science,
+ Introduction to Computer Science, or relevant courses</p>
 
-  <p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+  <h2 id="hdr-read-req">Background Reading (required)</h2>
+   <ul>
 
-  <h2 id="header-2">Header 2</h2>
+    <li>Barocas and Selbst (2016) "Big Data’s Disparate
+    Impact" <a href="http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf">pdf</a></li>
 
-  <blockquote>
-    <p>This is a blockquote following a header.</p>
+    <li>White House Report on Big Data (2014) "Big Data: Seizing
+    Opportunities, Preserving
+    Values" <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf">pdf</a></li>
 
-    <p>When something is important enough, you do it even if the odds are not in your favor.</p>
-  </blockquote>
+    <li>Brauneis and Goodman (2017) "Algorithmic Transparency for the
+    Smart
+    City" <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012499">pdf</a></li>
 
-  <h3 id="header-3">Header 3</h3>
+    <li>Kroll et al. (2017) "Accountable
+    Algorithms" <a href="https://scholarship.law.upenn.edu/penn_law_review/vol165/iss3/3/">pdf</a></li>
 
-  <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-  <span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'./lang/'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
-    <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
-  <span class="p">}</span>
-  </code></pre></div></div>
+   </ul>
 
-  <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
-  <span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
-    <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-  <span class="k">end</span>
-  </code></pre></div></div>
+ <h2 id="hdr-read-opt">Background Reading (optional)</h2>
+   <ul>
+    <li>Cathy O’Neil "Weapons of Math Destruction"</li>
+    <li>Frank Pasquale "The Black Box Society"</li>
+    <li>Virginia Eubanks "Automating Inequality"</li>
+   </ul>
 
-  <h4 id="header-4">Header 4</h4>
+  <h2 id="hdr-sch">Schedule</h2>
 
-  <ul>
-    <li>This is an unordered list following a header.</li>
-    <li>This is an unordered list following a header.</li>
-    <li>This is an unordered list following a header.</li>
-  </ul>
-
-  <h5 id="header-5">Header 5</h5>
-
-  <ol>
-    <li>This is an ordered list following a header.</li>
-    <li>This is an ordered list following a header.</li>
-    <li>This is an ordered list following a header.</li>
-  </ol>
-
-  <h6 id="header-6">Header 6</h6>
+  <p>This weekly schedule is tentative and is subject to change.</p>
 
   <table>
     <thead>
       <tr>
-        <th style="text-align: left">head1</th>
-        <th style="text-align: left">head two</th>
-        <th style="text-align: left">three</th>
+        <th style="text-align: left">Week</th>
+        <th style="text-align: left">Topic</th>
+        <th style="text-align: left">Reading</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="text-align: left">ok</td>
-        <td style="text-align: left">good swedish fish</td>
-        <td style="text-align: left">nice</td>
+        <td style="text-align: left">Jan 28, 2019</td>
+        <td style="text-align: left">Introduction and background</td>
+        <td style="text-align: left"></td>
       </tr>
       <tr>
-        <td style="text-align: left">out of stock</td>
-        <td style="text-align: left">good and plenty</td>
-        <td style="text-align: left">nice</td>
+        <td style="text-align: left">Feb 4</td>
+        <td style="text-align: left">The data science lifecycle.  Data Profiling</td>
+        <td style="text-align: left"></td>
       </tr>
       <tr>
-        <td style="text-align: left">ok</td>
-        <td style="text-align: left">good <code class="highlighter-rouge">oreos</code></td>
-        <td style="text-align: left">hmm</td>
+        <td style="text-align: left">Feb 11</td>
+        <td style="text-align: left">Data sharing.  Anonymity and privacy.</td>
+        <td style="text-align: left"></td>
       </tr>
       <tr>
-        <td style="text-align: left">ok</td>
-        <td style="text-align: left">good <code class="highlighter-rouge">zoute</code> drop</td>
-        <td style="text-align: left">yumm</td>
+        <td style="text-align: left">Feb 25</td>
+        <td style="text-align: left">Anonymity and privacy continued. </td>
+        <td style="text-align: left"></td>
       </tr>
+      <tr>
+        <td style="text-align: left">Mar 4</td>
+        <td style="text-align: left">Data cleaning.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Mar 11</td>
+        <td style="text-align: left">Midterm.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Mar 25</td>
+        <td style="text-align: left">Algorithmic fairness.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Apr 1</td>
+        <td style="text-align: left">Algorithmic fairness continued.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Apr 8</td>
+        <td style="text-align: left">Diversity.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Apr 15</td>
+        <td style="text-align: left">Transparency.</td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Apr 22</td>
+        <td style="text-align: left">Transparency continued.</td>
+        <td style="text-align: left"></td>
+      </tr>
+
+      <tr>
+        <td style="text-align: left">Apr 29</td>
+        <td style="text-align: left">Interpretability.</td>
+        <td style="text-align: left"></td>
+      </tr>
+
+      <tr>
+        <td style="text-align: left">May 6</td>
+        <td style="text-align: left">TBD</td>
+        <td style="text-align: left"></td>
+      </tr>
+
+      <tr>
+        <td style="text-align: left">May 13</td>
+        <td style="text-align: left">TBD</td>
+        <td style="text-align: left"></td>
+      </tr>
+
+      <tr>
+        <td style="text-align: left">TBD</td>
+        <td style="text-align: left">Final exam.</td>
+        <td style="text-align: left"></td>
+      </tr>
+
     </tbody>
   </table>
-
-  <h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
-
-  <hr />
-
-  <h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
-
-  <ul>
-    <li>Item foo</li>
-    <li>Item bar</li>
-    <li>Item baz</li>
-    <li>Item zip</li>
-  </ul>
-
-  <h3 id="and-an-ordered-list">And an ordered list:</h3>
-
-  <ol>
-    <li>Item one</li>
-    <li>Item two</li>
-    <li>Item three</li>
-    <li>Item four</li>
-  </ol>
-
-  <h3 id="and-a-nested-list">And a nested list:</h3>
-
-  <ul>
-    <li>level 1 item
-      <ul>
-        <li>level 2 item</li>
-        <li>level 2 item
-          <ul>
-            <li>level 3 item</li>
-            <li>level 3 item</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>level 1 item
-      <ul>
-        <li>level 2 item</li>
-        <li>level 2 item</li>
-        <li>level 2 item</li>
-      </ul>
-    </li>
-    <li>level 1 item
-      <ul>
-        <li>level 2 item</li>
-        <li>level 2 item</li>
-      </ul>
-    </li>
-    <li>level 1 item</li>
-  </ul>
-
-  <h3 id="small-image">Small image</h3>
-
-  <p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt="Octocat" /></p>
-
-  <h3 id="large-image">Large image</h3>
-
-  <p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="Branching" /></p>
-
-  <h3 id="definition-lists-can-be-used-with-html-syntax">Definition lists can be used with HTML syntax.</h3>
-
-  <dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-  </dl>
-
-  <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-  </code></pre></div></div>
-
-  <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
-  </code></pre></div></div>
-</div>
 
 <div class="center-text">
     <h3><a href="{{ site.baseurl }}/index">Back to Home</a></h3>
