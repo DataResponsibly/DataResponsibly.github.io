@@ -1,0 +1,67 @@
+- title: "A Technical Research Agenda in Data Ethics and Responsible Data Management"
+  authors: ACM SIGMOD 2018 special session
+  number_link: 4
+  link1:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Julia.pdf
+    display:  Slides (Julia Stoyanovich)
+  link2:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Alan.pdf
+    display:  Slides (Alan Mislove)
+  link3:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Alex.pdf
+    display:  Slides (Alexandra Meliou)
+  link4:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Bill.pdf
+    display:  Slides (Bill Howe)
+
+- title: "Data, Responsibly: fairness, diversity and transparency in data analysis"
+  authors: Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/AMW2017_Tutorial.pdf
+    display:  AMW 2017 Data Science School tutorial
+
+- title: "Fides: towards a responsible data science platform"
+  authors: Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://citp.princeton.edu/event/stoyanovich/
+    display:  CITP talk (video)
+
+- title: "Towards responsible data management"
+  authors: Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/EDBT2017.pdf
+    display:  EDBT 2017 panel on Database Technology and Behavior, Security, Ethics, Rights and Duties of Citizens
+
+- title: "Fides: Towards responsible data management"
+  authors: Julia Stoyanovich, Bill Howe, Serge Abiteboul, Gerome Miklau, Arnaud Sahuguet, Gerhard Weikum
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/SSDBM2017_Fides.pdf
+    display:  SSDBM 2017 talk
+
+- title: "Revealing algorithmic rankers"
+  authors: Julia Stoyanovich, Gerome Miklau and Ellen P. Goodman
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/DTL2016.pdf
+    display:  DTL 2016
+
+- title: "Data, Responsibly: fairness, neutrality and transparency in data analysis"
+  authors: Julia Stoyanovich, Serge Abiteboul and Gerome Miklau
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/EDBT2016_Tutorial.pdf
+    display:  EDBT 2016 tutorial
+
+- title: "Teaching materials for Data, Responsibly"
+  authors: Julia Stoyanovich
+  number_link: 2
+  link1:
+    url: https://dataresponsibly.github.io/documents/lecture.pdf
+    display:  Slides (pdf)
+  link2:
+    url: https://dataresponsibly.github.io/documents/lecture.key
+    display:  Slides (keynote)

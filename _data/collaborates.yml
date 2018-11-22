@@ -1,0 +1,10 @@
+- name: urbanalytics
+  photo: urbanalytics.png
+  info: Urban Data Science, Responsibly
+  url: https://urbanalytics.uw.edu/
+
+
+- name: DPComp
+  photo: dp-comp.png
+  info: DPComp is a web-based tool designed to help both practitioners and researchers assess the accuracy of state-of-the-art differentially private algorithms.
+  url: https://www.dpcomp.org/

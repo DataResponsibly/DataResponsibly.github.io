@@ -1,0 +1,16 @@
+- title: "Data, Responsibly (Dagstuhl Seminar 16291)"
+  authors: Serge Abiteboul, Gerome Miklau, Julia Stoyanovich and Gerhard Weikum
+  number_link: 1
+  link:
+    url: http://drops.dagstuhl.de/opus/volltexte/2016/6764/pdf/dagrep_v006_i007_p042_s16291.pdf
+    display: Schloss Dagstuhl Seminar Report 2016
+
+- title: "Research Directions for Principles of Data Management (Dagstuhl Perspectives Workshop 16151)"
+  authors: Serge Abiteboul, Marcelo Arenas, Pablo Barceló, Meghyn Bienvenu, Diego Calvanese, Claire David, Richard Hull, Eyke Hüllermeier, Benny Kimelfeld, Leonid Libkin, Wim Martens, Tova Milo, Filip Murlak, Frank Neven, Magdalena Ortiz, Thomas Schwentick, Julia Stoyanovich, Jianwen Su, Dan Suciu, Victor Vianu, Ke Yi
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/1701.09007
+    display:  Schloss Dagstuhl Seminar Report 2016 (full)
+  link2:
+    url: http://dl.acm.org/citation.cfm?doid=3092931.3092933
+    display:  SIGMOD Record (abridged)

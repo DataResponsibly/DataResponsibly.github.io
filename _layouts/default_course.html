@@ -2,14 +2,29 @@
 <html lang="en-US">
   <head>
 
-    {% include head_course.html %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>DataResponsibly - Course</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/course/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/course/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/course/style.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/course/course_css.css"/>
 
   </head>
   <body>
 
-
     {{ content }}
 
+  </body>
+  <div class="center-text">
+      <h3>for additional information about our work, see <a href="{{ site.baseurl }}/index">Data, Responsibly</a></h3>
+      <div>&nbsp;</div>
+      <p class="center-text">
+        &copy 2018 Data Responsibly. Site made with <a href="https://jekyllrb.com">Jekyll</a> and theme <a href="https://pages-themes.github.io/primer/">ThemePrimer</a>.
+      </p>
+  </div>
 
-    </body>
 </html>

@@ -1,33 +1,44 @@
-
-exclude:
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "LICENSE.md"
-  - "*.gemspec"
-
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: DataResponsibly
-subtitle: "Website for data responsiby project"
-url: "https://DataResponsibly.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+title: Data Responsibly
+email: stoyanovich@nyu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Data Responsbily is a project that aims to understand how legal and ethical norms of society can be embedded in technology,
+  and to build tools that make data sharing, collection and analysis responsible.
 baseurl: ""
+url: ""
 
-# Build settings
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
 
-# Category descriptions (for archive pages)
-# descriptions:
-#   - cat: jekyll
-#     desc: "Posts describing Jekyll setup techniques."
 
-#   - cat: dummy
-#     desc: "Just some placeholder posts, lorem ipsum and the rest."
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+

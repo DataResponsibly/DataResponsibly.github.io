@@ -1,0 +1,91 @@
+- title: "A Nutritional Label for Rankings"
+  image: ranking-facts.png
+  description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
+  authors: Ke Yang, Julia Stoyanovich, Abolfazl Asudeh, Bill Howe, HV Jagadish and Gerome Miklau
+  link:
+    url: https://arxiv.org/abs/1804.07890
+    display: Proceedings of ACM SIGMOD (demo), 2018
+  highlight: 1
+  news2:
+
+- title: "DataSynthesizer: Privacy-preserving synthetic datasets"
+  image: synthesizer.png
+  description: To facilitate collaboration over sensitive data, we present DataSynthesizer, a tool that takes a sensitive dataset as input and generates a structurally and statistically similar synthetic dataset with strong privacy guarantees.
+  authors: Haoyue Ping, Julia Stoyanovich and Bill Howe
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3091117
+    display:  Proceedings of SSDBM, 2017
+  highlight: 1
+  news2:
+
+- title: "Fides: A platform for responsible data science"
+  image: fides.png
+  description:  We see a need for a data sharing and collaborative analytics platform with features to encourage (and in some cases, enforce) best practices at all stages of the data science lifecycle. We propose Fides, in the context of urban analytics, outlining a systems research agenda in responsible data science.
+  authors: Bill Howe, Julia Stoyanovichi, Serge Abiteboul, Gerome Miklau, Arnaud Sahuguet and Gerhard Weikum
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3085530
+    display:  Proceedings of SSDBM, 2017
+  highlight: 1
+  news2:
+
+- title: "A Technical Research Agenda in Data Ethics and Responsible Data Management"
+  authors: Julia Stoyanovich, Bill Howe, and HV Jagadish
+  link:
+    url: https://dataresponsibly.github.io/documents/p1635-stoyanovich.pdf
+    display:  Proceedings of ACM SIGMOD, 2018
+
+- title: "RC-Index: Diversifying Answers to Range Queries"
+  authors: Yue Wang, Alexandra Meliou, and Gerome Miklau
+  link:
+    url: https://dataresponsibly.github.io/documents/p773-wang.pdf
+    display:  PVLDB 11(7), 2018
+
+
+- title: "Online Set Selection with Fairness and Diversity Constraints"
+  authors: Julia Stoyanovich, Ke Yang and HV Jagadish
+  link:
+    url: http://openproceedings.org/2018/conf/edbt/paper-98.pdf
+    display:  Proceedings of EDBT, 2018
+
+- title: "Diversity in Big Data: A Review"
+  authors: Marina Drosou, HV Jagadish, Evaggelia Pitoura and Julia Stoyanovich
+  link:
+    url: https://dataresponsibly.github.io/documents/big.2016.0054.pdf
+    display:  Big Data Special Issue on Social and Technical Trade-Offs, June 2017
+
+
+- title: "Measuring fairness in ranked outputs"
+  authors: Ke Yang and Julia Stoyanovich
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3085526
+    display:  Proceedings of SSDBM, 2017
+
+- title: "Data, responsibly: fairness, neutrality and transparency in data analysis"
+  authors: Julia Stoyanovich, Serge Abiteboul and Gerome Miklau
+  link:
+    url: http://openproceedings.org/2016/conf/edbt/paper-c.pdf
+    display:  Proceedings of EDBT, 2016
+
+- title: "Collaborative Access Control in WebdamLog"
+  authors: Vera Zaychik Moffitt, Julia Stoyanovich, Serge Abiteboul, Gerome Miklau
+  link:
+    url: http://doi.acm.org/10.1145/2723372.2749433
+    display:  Proceedings of ACM SIGMOD, 2015
+
+- title: "Rule-Based Application Development using Webdamlog"
+  authors: Serge Abiteboul, Emilien Antoine, Gerome Miklau, Julia Stoyanovich, and Jules Testard
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=2463676.2465251
+    display:  Proceedings of SIGMOD, 2013
+
+- title: "Making Interval-Based Clustering Rank-Aware"
+  authors: Julia Stoyanovich, Sihem Amer-Yahia and Tova Milo
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=1951365.1951417
+    display:  Proceedings of EDBT, 2011
+
+- title: "On Provenance and Privacy"
+  authors: Susan Davidson, Sanjeev Khanna, Sudeepa Roy, Julia Stoyanovich, Val Tannen, Yi Chen
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=1938551.1938554
+    display:  Proceedings of ICDT, 2011
