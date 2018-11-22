@@ -1,6 +1,6 @@
 - name: <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia D Stoyanovich</a>
   photo: Stoyanovich.png
-  info: <a href="https:/www.nyu.edu">New York University</a>
+  info: <a href="https://www.nyu.edu">New York University</a>
   email: stoyanovich@nyu.edu
   number_org: 2
   org1: Assistant Professor, <a href="https://engineering.nyu.edu">Computer Science & Engineering</a>
@@ -11,7 +11,7 @@
 
 - name: <a href="https://faculty.washington.edu/billhowe/">Bill Howe</a>
   photo: Howe.png
-  info: <a href="https:/www.washington.edu">University of Washington</a>
+  info: <a href="https://www.washington.edu">University of Washington</a>
   email: billhowe@uw.edu
   number_org: 4
   org1: Associate Professor, <a href="https://ischool.uw.edu/">Information School</a>
@@ -23,7 +23,7 @@
 
 - name: <a href="https://abiteboul.com">Serge Abiteboul</a>
   photo: Abiteboul.png
-  info: <a href="https:/www.inria.fr">Inria</a>
+  info: <a href="https://www.inria.fr">Inria</a>
   email: serge.abiteboul@inria.fr
   number_org: 2
   org1: Senior researcher, <a href="http://www.inria.fr/">INRIA ENS Paris</a>
@@ -34,7 +34,7 @@
 
 - name: <a href="http://web.eecs.umich.edu/~jag/">H V Jagadish</a>
   photo: Jagadish.png
-  info: <a href="https:/www.umich.edu">University of Michigan</a>
+  info: <a href="https://www.umich.edu">University of Michigan</a>
   email: jag@eecs.umich.edu
   number_org: 1
   org1: Bernard A Galler Collegiate Professor, <a href="http://www.cse.umich.edu/">Elec. Engg. and Computer Science</a>
@@ -44,7 +44,7 @@
 
 - name: <a href="https://people.cs.umass.edu/~miklau/">Gerome Miklau</a>
   photo: Miklau.png
-  info: <a href="https:/www.umass.edu">University of Massachusetts, Amherst</a>
+  info: <a href="https://www.umass.edu">University of Massachusetts, Amherst</a>
   email: miklau@cs.umass.edu
   number_org: 1
   org1: Professor, <a href="http://www.cs.umass.edu/">College of Information and Computer Sciences</a>
