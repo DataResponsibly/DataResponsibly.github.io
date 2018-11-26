@@ -40,7 +40,7 @@ permalink: /tools/
 {% endif %}
 
 
-## Collaborated projects
+## Collaborators
 {% assign number_printed = 0 %}
 {% for coli in site.data.collaborates %}
 

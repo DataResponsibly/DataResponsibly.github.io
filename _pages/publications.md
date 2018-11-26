@@ -13,8 +13,6 @@ Jump to [full list](#full-list), [reports](#reports), [blogs and popular press](
 
 ## Highlights
 
-(For a full list see [below](#full-list))
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publications %}
 
