@@ -13,11 +13,9 @@
   photo: Howe.png
   info: <a href="https://www.washington.edu">University of Washington</a>
   email: billhowe@uw.edu
-  number_org: 4
+  number_org: 2 
   org1: Associate Professor, <a href="https://ischool.uw.edu/">Information School</a>
-  org2: Adjunct Associate Professor, <a href="https://www.ece.uw.edu/">Computer Science and Engineering </a>
-  org3: Adjunct Associate Professor, <a href="https://www.cs.washington.edu/">Electrical Engineering </a>
-  org4: Founding Associate Director and Senior Data Science Fellow, <a href="http://escience.washington.edu/">UW eScience Institute</a>
+  org2: Founding Associate Director and Senior Data Science Fellow, <a href="http://escience.washington.edu/">UW eScience Institute</a>
   number_educ: 1
   education1:
 
