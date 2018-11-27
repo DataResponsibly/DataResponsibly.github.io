@@ -1,13 +1,13 @@
-- title: Follow the Data! Algorithmic Transparency Starts with Data Transparency
+- title: "Follow the Data! Algorithmic Transparency Starts with Data Transparency"
   authors: Julia Stoyanovich and Bill Howe
   image: ai_shorensteincenter.jpeg
-  description: The data revolution that is transforming every sector of science and industry has been slow to reach the local and municipal governments and NGOs that deliver vital human services in health, housing, and mobility. Urbanization has made the issue acute: in 2016, more than half of North Americans lived in cities with at least 500,000 inhabitants.
+  description: The data revolution that is transforming every sector of science and industry has been slow to reach the local and municipal governments and NGOs that deliver vital human services in health, housing, and mobility. Urbanization has made the issue acute in 2016, more than half of North Americans lived in cities with at least 500,000 inhabitants.
   link:
     url: https://ai.shorensteincenter.org/ideas/2018/11/26/follow-the-data-algorithmic-transparency-starts-with-data-transparency
     display:  The Ethical Machine, November 27, 2018
   highlight: 1
 
-- title: An Algorithmic Approach to Correct Bias in Urban Transportation Datasets
+- title: "An Algorithmic Approach to Correct Bias in Urban Transportation Datasets"
   authors:
   image: cds_medium.jpeg
   description: While a significant amount of attention and research has addressed individual privacy concerns in private companies’ datasets, data owners and publishers also want to avoid revealing certain patterns — even in anonymized datasets — that might compromise a competitive advantage or perpetuate discrimination against any group of people. Data published by urban transportation companies is highly valuable for research, policy, and public accountability.
@@ -16,7 +16,7 @@
     display:  NYU Center for Data Science, October 30, 2018
   highlight: 1
 
-- title: NYC Has An Algorithm Ethics Task Force, And Drexel Prof Julia Stoyanovich Is Involved
+- title: "NYC Has An Algorithm Ethics Task Force, And Drexel Prof Julia Stoyanovich Is Involved"
   authors:
   image: philly_citybizlist.jpg
   description: The Automated Decision Systems Task Force, created by New York Mayor Bill de Blasio, will create procedures for assessing the city's algorithmic tools. The task force is primarily made up of people with expertise in tech law and public policy. There are only a handful of people that have technical expertise in computer science and I’m one of those people. I’m looking forward to using my research insights specifically on operationalizing ethics in algorithms and data to come up with actionable recommendations for agencies.
@@ -25,7 +25,7 @@
     display: technical.ly, May 30, 2018
   highlight: 1
 
-- title: Mayor de Blasio Announces First-In-Nation Task Force To Examine Automated Decision Systems Used By The City
+- title: "Mayor de Blasio Announces First-In-Nation Task Force To Examine Automated Decision Systems Used By The City"
   image: NYC_task_force.png
   description: Today, Mayor de Blasio announced the creation of the Automated Decision Systems Task Force which will explore how New York City uses algorithms. The task force, the first of its kind in the U.S., will work to develop a process for reviewing “automated decision systems,” commonly known as algorithms, through the lens of equity, fairness and accountability.
   authors:
@@ -34,7 +34,7 @@
     display: NYC Goverment, May 16, 2018
   highlight: 1
 
-- title: University Researchers Use 'Fake' Data for Social Good
+- title: "University Researchers Use 'Fake' Data for Social Good"
   authors:
   image: govtech_fake_data.jpg
   description: Virtually every interaction we have with a public agency creates a data point. Amass enough data points and they can tell a story. However, factors like privacy, data storage and usability present challenges for local governments and researchers interested in helping improve services. In this installment of MetroLab's Innovation of the Month series, we highlight how researchers at Data Responsibly are addressing those challenges by creating synthetic data sets for social good.
@@ -43,7 +43,7 @@
     display:  GovTech, November 7, 2017
   highlight: 1
 
-- title: Julia Stoyanovich on the importance of many perspectives at the Data for Good Exchange
+- title: "Julia Stoyanovich on the importance of many perspectives at the Data for Good Exchange"
   authors:
   image: julia_tech_bloomberg.jpg
   description: Stoyanovich’s diversity of experience makes her a perfect fit to be a member of the Program Committee for the 4th annual Data for Good Exchange (D4GX), to be held Sunday, September 24, 2017 at Bloomberg’s New York headquarters. The conference explores the use of data science for social good, and brings together data scientists from industry and academia with not-for-profits and government entities seeking to use modern machine learning and data science methods to address challenges in the public and non-profit sectors.
@@ -52,7 +52,7 @@
     display:  Tech at Bloomberg, July 7, 2017
   highlight: 1
 
-- title: Plaidoyer pour une analyse responsable des données
+- title: "Plaidoyer pour une analyse responsable des données"
   authors:
   image: le_monde.png
   description: La plupart des données et de la puissance d’analyse sont concentrées dans les mains de quelques entreprises, ce qui leur donne les moyens d’éliminer toute ­concurrence dans des pans entiers de l’économie. Une poignée de sociétés ­contrôlent toutes nos données personnelles, déterminent quelles informations nous sont proposées, et orientent la plupart de nos décisions, portant ­potentiellement atteinte à notre vie privée et à nos libertés. Avec l’analyse de données massives, le big data, ces entreprises disposent d’un pouvoir énorme.
