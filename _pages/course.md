@@ -95,7 +95,7 @@ author: Julia Stoyanovich
       <tr>
         <td style="text-align: left" nowrap>Feb 4</td>
         <td style="text-align: left">The data science lifecycle, data profiling<br>
-                                     <i>Topics: Overview of the data science lifecycle.  Data profiling and validation.  Is my dataset biased?  Documenting data transformations. Normalization and standardization.</i>
+                                     <i>Topics: Overview of the data science lifecycle.  Data profiling and validation.  Is my dataset ``biased''?  The limits of data profiling. Data provenance.</i>
         </td>
         <td style="text-align: left"></td>
       </tr>
