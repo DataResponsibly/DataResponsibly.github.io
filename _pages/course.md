@@ -248,7 +248,7 @@ author: Julia Stoyanovich
       </tr>
 
         <tr>
-        <td style="text-align: left" nowrap>Mar 28 /td>
+        <td style="text-align: left" nowrap>Mar 28</td>
         <td style="text-align: left"><b>Lab</b>: Data cleaning
         </td>     
         <td style="text-align: left"></td>
@@ -267,7 +267,7 @@ author: Julia Stoyanovich
       </tr>
 
        <tr>
-        <td style="text-align: left" nowrap>Apr 4 /td>
+        <td style="text-align: left" nowrap>Apr 4</td>
         <td style="text-align: left"><b>Lab</b>: LIME
         </td>
         <td style="text-align: left"></td>
@@ -286,7 +286,7 @@ author: Julia Stoyanovich
       </tr>
 
        <tr>
-        <td style="text-align: left" nowrap>Apr 11 /td>
+        <td style="text-align: left" nowrap>Apr 11</td>
         <td style="text-align: left"><b>Lab</b>: Quantitative Input Influence
         </td>
         <td style="text-align: left"></td>
@@ -305,7 +305,7 @@ author: Julia Stoyanovich
       </tr>
 
        <tr>
-        <td style="text-align: left" nowrap>Apr 18 /td>
+        <td style="text-align: left" nowrap>Apr 18</td>
         <td style="text-align: left"><b>Lab</b>: Final review
         </td>
         <td style="text-align: left"></td>
