@@ -318,6 +318,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lecture</b>: Final exam (in class)
         </td>
         <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
       </tr>
 
        <tr>
