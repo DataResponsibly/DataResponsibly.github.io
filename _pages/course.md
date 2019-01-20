@@ -111,7 +111,7 @@ author: Julia Stoyanovich
         "Data, Responsibly", Abiteboul and Stoyanovich (2015) <a href="http://wp.sigmod.org/?p=1900">ACM SIGMOD blog</a>
         </td>
         <td style="text-align: left">
-            <a href="documents/Lecture1.pdf">slides</a>
+            <a href="https://dataresponsibly.github.io/documents/Lecture1.pdf">slides</a>
         </td>
         <td style="text-align: left"></td>
       </tr>
@@ -147,13 +147,13 @@ author: Julia Stoyanovich
   <!-- WEEK 3 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 11</td>
-        <td style="text-align: left"><b>Lecture</b>: Fairness<br>
-                                    <i>Topics: Impossibility results; causal definitions; fairness beyond classification.</i>
-        </td>
-        <td style="text-align: left">
+        <td style="text-align: left"><b>Lecture:</b> Fairness<br>
+                                    <i>Topics:</i> Impossibility results; causal definitions; fairness beyond classification.<br>
+                                    <i>Reading:</i>		    
         "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments", Chouldechova (2017) <a href="https://arxiv.org/abs/1703.00056">arXiv</a><br>
         "Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions", Mitchell, Porash, Barocas (2018) <a href="https://arxiv.org/abs/1811.07867">arXiv</a>
         </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
 
