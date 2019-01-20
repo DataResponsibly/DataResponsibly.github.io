@@ -118,7 +118,7 @@ author: Julia Stoyanovich
   <!-- WEEK 2 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 4</td>
-        <td style="text-align: left"><b>Lecture</b>:Fairness<br>
+        <td style="text-align: left"><b>Lecture</b>: Fairness<br>
                                      <i>Topics: A taxonomy of fairness definitions; individual and group fairness. The importance of a socio-technical perspective: stakeholders and trade-offs.</i>
         </td>
         <td style="text-align: left"></td>
@@ -135,7 +135,7 @@ author: Julia Stoyanovich
   <!-- WEEK 3 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 11</td>
-        <td style="text-align: left">Fairness<br>
+        <td style="text-align: left"><b>Lecture</b>: Fairness<br>
                                     <i>Topics: Impossibility results; causal definitions; fairness beyond classification.</i>
         </td>
         <td style="text-align: left"></td>
@@ -168,7 +168,7 @@ author: Julia Stoyanovich
   <!-- WEEK 5 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 25</td>
-        <td style="text-align: left">Anonymity and privacy<br>
+        <td style="text-align: left"><b>Lecture</b>:Anonymity and privacy<br>
                                    <i>Topics: Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification.</i>
         </td>
         <td style="text-align: left"></td>
@@ -186,7 +186,7 @@ author: Julia Stoyanovich
   <!-- WEEK 6 -->
       <tr>
         <td style="text-align: left" nowrap>Mar 4</td>
-        <td style="text-align: left">Anonymity and privacy<br>
+        <td style="text-align: left"><b>Lecture</b>:Anonymity and privacy<br>
                                    <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i>
         </td>
         <td style="text-align: left"></td>
@@ -205,7 +205,7 @@ author: Julia Stoyanovich
   <!-- WEEK 7 -->
       <tr>
         <td style="text-align: left" nowrap>Mar 11</td>
-        <td style="text-align: left">The data science lifecycle, data profiling<br>
+        <td style="text-align: left"><b>Lecture</b>: Data science lifecycle, data profiling<br>
                                   <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. </i>
         </td>
 	<td style="text-align: left"></td>
@@ -290,7 +290,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lab</b>: Quantitative Input Influence
         </td>
         <td style="text-align: left"></td>
-        <td style="text-align: left">HW4 out</td>
+        <td style="text-align: left">HW4 assigned</td>
       </tr>
 
 
@@ -318,11 +318,11 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lecture</b>: Final exam (in class)
         </td>
         <td style="text-align: left"></td>
-        <td style="text-align: left"></td>
+        <td style="text-align: left">HW4 due</td>
       </tr>
 
        <tr>
-        <td style="text-align: left" nowrap>Apr 25 /td>
+        <td style="text-align: left" nowrap>Apr 25 </td>
         <td style="text-align: left"><b>Lab</b>: Nutritional labels
         </td>
         <td style="text-align: left"></td>
@@ -352,7 +352,6 @@ author: Julia Stoyanovich
       <tr>
         <td style="text-align: left" nowrap>May 6</td>
         <td style="text-align: left"><b>Lecture</b>: Reproducibiilty<br>
-                                   <i>Topics: </i>
        </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
@@ -373,7 +372,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lecture</b>: Project presentations
        </td>
         <td style="text-align: left"></td>
-        <td style="text-align: left">Projects due</td>
+        <td style="text-align: left">Project report due</td>
       </tr>
 
     </tbody>
