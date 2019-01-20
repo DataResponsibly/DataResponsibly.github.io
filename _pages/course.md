@@ -15,16 +15,20 @@ author: Julia Stoyanovich
  <h2>New York University, Center for Data Science, Spring 2019</h2>
 
 
-  <p><strong>Lecture:</strong> Mondays from 11am-12:40pm; <strong>Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
+  <p><strong>Lecture:</strong> Mondays from 11am-12:40pm;</p>
+  <p><strong>Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
   <p><strong>Location:</strong>60 5th Avenue, Room 110</p>
 
-  <p><strong>Instructor:</strong> <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a>, Assistant Professor of Data Science, Computer Science and Engineering.  Office hours Mondays 1:30-3pm or by appointment, at 60 5th Avenue, Room 605.</p>
+  <p><strong>Instructor:</strong> <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a>, Assistant Professor of Data Science, Computer Science and Engineering.<br>
+  Office hours Mondays 1:30-3pm or by appointment, at 60 5th Avenue, Room 605.</p>
 
-  <p><strong>Section Leader:</strong> <a href="mailto:ug200@nyu.edu">Udita Gupta</a>.  Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.</p>
+  <p><strong>Section Leader:</strong> <a href="mailto:ug200@nyu.edu">Udita Gupta</a>.<br>  
+  Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.</p>
 
-  <p><strong>Syllabus:</strong> <a href="https://dataresponsibly.github.io/documents/Syllabus_DS-GA-3001.009_SP_2019.pdf">pdf</a>
+  <p><strong>Syllabus:</strong> <a href="https://dataresponsibly.github.io/documents/Syllabus_DS-GA-3001.009_SP_2019.pdf">pdf</a></p>
 
-  <p>The first wave of data science focused on accuracy and
+  <p><strong>Course Description:</strong>
+    The first wave of data science focused on accuracy and
     efficiency -- on what we <em>can</em> do with data. The second
     wave focuses on responsibility -- on what we <em>should</em>
     and <em>shouldn't</em> do. Irresponsible use of data science can
@@ -136,16 +140,16 @@ author: Julia Stoyanovich
                                     <i>Topics: Impossibility results; causal definitions; fairness beyond classification.</i>
         </td>
         <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
       </tr>
 
        <tr>
         <td style="text-align: left" nowrap>Feb 14</td>
         <td style="text-align: left"><b>Lab</b>: IBM's AI Fairness 360 toolkit</td>
         <td style="text-align: left"></td>
-        <td style="text-align: left">HW1 (fairness) assigned</td>
+        <td style="text-align: left">HW1 assigned</td>
       </tr>
 
-<!--
   <!-- WEEK 4 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 25</td>
@@ -153,6 +157,7 @@ author: Julia Stoyanovich
                                    <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i><br>
                                   <b>HW1 due at 10am</b>
         </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
 
