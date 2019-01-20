@@ -346,33 +346,35 @@ author: Julia Stoyanovich
        <td style="text-align: left"></td>
       </tr>
 
-
-      <tr>
-        <td style="text-align: left" nowrap>Apr 29</td>
-        <td style="text-align: left">Interpretability<br>
-                                <i>Transparency and accountability.  Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law.  From auditing to interpretability.</i>
-        </td>
-        <td style="text-align: left"></td>
-      </tr>
+   <!-- WEEK 15 -->
 
       <tr>
         <td style="text-align: left" nowrap>May 6</td>
-        <td style="text-align: left">TBD</td>
+        <td style="text-align: left"><b>Lecture</b>: Reproducibiilty<br>
+                                   <i>Topics: </i>
+       </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
+
+     <tr>
+        <td style="text-align: left" nowrap>May 9</td>
+        <td style="text-align: left"><b>Lab</b>: Reproducibility
+       </td>
+       <td style="text-align: left"></td>
+       <td style="text-align: left"></td>
+      </tr>
+
+   <!-- WEEK 16 -->
 
       <tr>
         <td style="text-align: left" nowrap>May 13</td>
-        <td style="text-align: left">TBD</td>
+        <td style="text-align: left"><b>Lecture</b>: Project presentations
+       </td>
         <td style="text-align: left"></td>
+        <td style="text-align: left">Projects due</td>
       </tr>
 
-      <tr>
-        <td style="text-align: left" nowrap>TBD</td>
-        <td style="text-align: left">Final exam</td>
-        <td style="text-align: left"></td>
-      </tr>
--->
     </tbody>
   </table>
 
