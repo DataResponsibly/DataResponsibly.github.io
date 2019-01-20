@@ -103,9 +103,16 @@ author: Julia Stoyanovich
   <!-- WEEK 1 -->
       <tr>
         <td style="text-align: left" nowrap>Jan 28</td>
-        <td style="text-align: left"><b>Lecture</b>: Introduction and background<br>
-                                    <i>Topics: Course outline, aspects of responsibility in data science through recent examples.</i></td>
-        <td style="text-align: left"></td>
+        <td style="text-align: left"><b>Lecture:</b> Introduction and background<br>
+                                    <i>Topics:</i> Course outline, aspects of responsibility in data science through recent examples.<br>
+                                    <i>Reading:</i>         
+         "Bias in Computer Systems", Friedman and Nissenbaum (1996) <a href="https://dl.acm.org/citation.cfm?id=230561">ACM DL</a><br>
+        "Machine Bias", Angwin, Larson, Mattu, Kirchner (2016) <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">ProPublica</a><br>
+        "Data, Responsibly", Abiteboul and Stoyanovich (2015) <a href="http://wp.sigmod.org/?p=1900">ACM SIGMOD blog</a>
+        </td>
+        <td style="text-align: left">
+            <a href="documents/Lecture1.pdf">slides</a>
+        </td>
         <td style="text-align: left"></td>
       </tr>
 
@@ -119,8 +126,12 @@ author: Julia Stoyanovich
   <!-- WEEK 2 -->
       <tr>
         <td style="text-align: left" nowrap>Feb 4</td>
-        <td style="text-align: left"><b>Lecture</b>: Fairness<br>
-                                     <i>Topics: A taxonomy of fairness definitions; individual and group fairness. The importance of a socio-technical perspective: stakeholders and trade-offs.</i>
+        <td style="text-align: left"><b>Lecture:</b> Fairness<br>
+                                     <i>Topics:</i> A taxonomy of fairness definitions; individual and group fairness. The importance of a socio-technical perspective: stakeholders and trade-offs.<br>
+                                     <i>Reading:</i>
+        "Big Data's Disparate Impact", Barocas and Selbst (2016) <a href="http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf">pdf</a><br>
+        “Fairness through awareness”, Dwork, Hardt, Pitassi, Reingold, Zemel (2012) <a href="https://dl.acm.org/citation.cfm?doid=2090236.2090255">ACM DL</a><br>
+        "On the (im)possibility of fairness", Friedler, Scheidegger, Venkatasubramanian (2016) <a href="https://arxiv.org/abs/1609.07236">arXiv</a><br>
         </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
@@ -139,7 +150,10 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lecture</b>: Fairness<br>
                                     <i>Topics: Impossibility results; causal definitions; fairness beyond classification.</i>
         </td>
-        <td style="text-align: left"></td>
+        <td style="text-align: left">
+        "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments", Chouldechova (2017) <a href="https://arxiv.org/abs/1703.00056">arXiv</a><br>
+        "Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions", Mitchell, Porash, Barocas (2018) <a href="https://arxiv.org/abs/1811.07867">arXiv</a>
+        </td>
         <td style="text-align: left"></td>
       </tr>
 
@@ -187,7 +201,7 @@ author: Julia Stoyanovich
   <!-- WEEK 6 -->
       <tr>
         <td style="text-align: left" nowrap>Mar 4</td>
-        <td style="text-align: left"><b>Lecture</b>:Anonymity and privacy<br>
+        <td style="text-align: left"><b>Lecture</b>: Anonymity and privacy<br>
                                    <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i>
         </td>
         <td style="text-align: left"></td>
@@ -196,7 +210,7 @@ author: Julia Stoyanovich
 
       <tr>
         <td style="text-align: left" nowrap>Mar 7</td>
-        <td style="text-align: left"><b>Lab</b>:TBD
+        <td style="text-align: left"><b>Lab</b>: Anonymity and privacy
         </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
