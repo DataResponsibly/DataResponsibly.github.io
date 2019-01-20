@@ -15,14 +15,13 @@ author: Julia Stoyanovich
  <h2>New York University, Center for Data Science, Spring 2019</h2>
 
 
-  <p><strong>Lecture:</strong> Mondays from 11am-12:40pm;</p>
-  <p><strong>Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
+  <p><strong>Lecture:</strong> Mondays from 11am-12:40pm; <strong>Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
   <p><strong>Location:</strong>60 5th Avenue, Room 110</p>
 
   <p><strong>Instructor:</strong> <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a>, Assistant Professor of Data Science, Computer Science and Engineering.<br>
   Office hours Mondays 1:30-3pm or by appointment, at 60 5th Avenue, Room 605.</p>
 
-  <p><strong>Section Leader:</strong> <a href="mailto:ug200@nyu.edu">Udita Gupta</a>.<br>  
+  <p><strong>Section Leader:</strong> <a href="mailto:ug200@nyu.edu">Udita Gupta</a>.
   Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.</p>
 
   <p><strong>Syllabus:</strong> <a href="https://dataresponsibly.github.io/documents/Syllabus_DS-GA-3001.009_SP_2019.pdf">pdf</a></p>
@@ -152,20 +151,53 @@ author: Julia Stoyanovich
 
   <!-- WEEK 4 -->
       <tr>
+        <td style="text-align: left" nowrap>Feb 18</td>
+        <td style="text-align: left"><b>No class, university holiday</b>                                    
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+       <tr>
+        <td style="text-align: left" nowrap>Feb 21</td>
+	<td style="text-align: left"><b>Lab</b>: TBD </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+  <!-- WEEK 5 -->
+      <tr>
         <td style="text-align: left" nowrap>Feb 25</td>
-        <td style="text-align: left">Anonymity and privacy continued<br>
-                                   <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i><br>
-                                  <b>HW1 due at 10am</b>
+        <td style="text-align: left">Anonymity and privacy<br>
+                                   <i>Topics: Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW1 due</td>
+      </tr>
+
+      <tr>
+        <td style="text-align: left" nowrap>Feb 28</td>
+        <td style="text-align: left"><b>Lab</b>: Data Synthesizer</b>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW2 assigned</td>
+      </tr>
+
+  <!-- WEEK 6 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 4</td>
+        <td style="text-align: left">Anonymity and privacy<br>
+                                   <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i>
         </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
 
       <tr>
-        <td style="text-align: left" nowrap>Feb 28</td>
-        <td style="text-align: left"><b>Lab</b>: Data Synthesizer</b><br>
-                                  <b>HW2 (privacy) assigned</b>
+        <td style="text-align: left" nowrap>Mar 7</td>
+        <td style="text-align: left"><b>Lab</b>:TBD
         </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
      
