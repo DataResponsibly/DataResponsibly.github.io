@@ -177,7 +177,7 @@ author: Julia Stoyanovich
 
       <tr>
         <td style="text-align: left" nowrap>Feb 28</td>
-        <td style="text-align: left"><b>Lab</b>: Data Synthesizer</b>
+        <td style="text-align: left"><b>Lab</b>: Data Synthesizer
         </td>
         <td style="text-align: left"></td>
         <td style="text-align: left">HW2 assigned</td>
@@ -202,20 +202,57 @@ author: Julia Stoyanovich
       </tr>
      
 
-  <!-- WEEK 5 -->
+  <!-- WEEK 7 -->
       <tr>
-        <td style="text-align: left" nowrap>Mar 4</td>
+        <td style="text-align: left" nowrap>Mar 11</td>
+        <td style="text-align: left">The data science lifecycle, data profiling<br>
+                                  <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset ``biased''? The limits of data profiling. Data provenance. </i>
+        </td>
+	<td style="text-align: left"></td>
+	<td style="text-align: left">HW2 due</td>
+      </tr>
+
+        <tr>
+        <td style="text-align: left" nowrap>Mar 14 /td>
+        <td style="text-align: left"><b>Lab</b>: Data cleaning</b>
+        </td>
+	<td style="text-align: left"></td>
+	<td style="text-align: left"></td>
+      </tr>
+
+  
+  <!-- WEEK 8 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 18</td>
+        <td style="text-align: left"><b>No class, university holiday</b>                                    
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+       <tr>
+        <td style="text-align: left" nowrap>Mar 21</td>
+	<td style="text-align: left"><b>No class, university holiday</b> </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+  <!-- WEEK 9 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 25</td>
         <td style="text-align: left">Data cleaning<br>
                                   <i>Topics: Qualitative and quantitative error detection. Missing attribute values and imputation. Outlier detection; duplicate detection. Documenting data cleaning transformations.</i>
         </td>
         <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
       </tr>
 
         <tr>
-        <td style="text-align: left" nowrap>Mar 7 /td>
+        <td style="text-align: left" nowrap>Mar 28 /td>
         <td style="text-align: left"><b>Lab</b>: Data cleaning</b>
         </td>     
         <td style="text-align: left"></td>
+        <td style="text-align: left">HW3 assigned</td>
       </tr>
 
   <!-- WEEK 6 -->
