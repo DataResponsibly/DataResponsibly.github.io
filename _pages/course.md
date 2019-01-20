@@ -12,7 +12,7 @@ author: Julia Stoyanovich
 
   <h1><a href="{{ site.baseurl }}/course">DS-GA 3001.009: Special Topics in Data Science:<br> Responsible Data Science</a></h1>
 
- <h2>New York University, Center for Data Science, Spring 2019</h2>
+  <h2>New York University, Center for Data Science, Spring 2019</h2>
 
 
   <p><strong>Lecture:</strong> Mondays from 11am-12:40pm; <strong>Lab:</strong> Thursdays from 5:20pm-6:10pm</p>
@@ -97,6 +97,7 @@ author: Julia Stoyanovich
         <th style="text-align: left">Assignments</th>
       </tr>
     </thead>
+
     <tbody>
 
   <!-- WEEK 1 -->
@@ -214,7 +215,7 @@ author: Julia Stoyanovich
 
         <tr>
         <td style="text-align: left" nowrap>Mar 14 </td>
-        <td style="text-align: left"><b>Lab</b>: Data cleaning</b>
+        <td style="text-align: left"><b>Lab</b>: Data cleaning
         </td>
 	<td style="text-align: left"></td>
 	<td style="text-align: left"></td>
@@ -377,6 +378,5 @@ author: Julia Stoyanovich
 
     </tbody>
   </table>
-
 
  </div>
