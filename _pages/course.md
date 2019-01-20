@@ -206,14 +206,14 @@ author: Julia Stoyanovich
       <tr>
         <td style="text-align: left" nowrap>Mar 11</td>
         <td style="text-align: left">The data science lifecycle, data profiling<br>
-                                  <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset ``biased''? The limits of data profiling. Data provenance. </i>
+                                  <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. </i>
         </td>
 	<td style="text-align: left"></td>
 	<td style="text-align: left">HW2 due</td>
       </tr>
 
         <tr>
-        <td style="text-align: left" nowrap>Mar 14 /td>
+        <td style="text-align: left" nowrap>Mar 14 </td>
         <td style="text-align: left"><b>Lab</b>: Data cleaning</b>
         </td>
 	<td style="text-align: left"></td>
@@ -240,7 +240,7 @@ author: Julia Stoyanovich
   <!-- WEEK 9 -->
       <tr>
         <td style="text-align: left" nowrap>Mar 25</td>
-        <td style="text-align: left">Data cleaning<br>
+        <td style="text-align: left"><b>Lecture</b>: Data cleaning<br>
                                   <i>Topics: Qualitative and quantitative error detection. Missing attribute values and imputation. Outlier detection; duplicate detection. Documenting data cleaning transformations.</i>
         </td>
         <td style="text-align: left"></td>
@@ -249,62 +249,70 @@ author: Julia Stoyanovich
 
         <tr>
         <td style="text-align: left" nowrap>Mar 28 /td>
-        <td style="text-align: left"><b>Lab</b>: Data cleaning</b>
+        <td style="text-align: left"><b>Lab</b>: Data cleaning
         </td>     
         <td style="text-align: left"></td>
         <td style="text-align: left">HW3 assigned</td>
       </tr>
 
-  <!-- WEEK 6 -->
+  <!-- WEEK 10 -->
+
       <tr>
-        <td style="text-align: left" nowrap>Mar 11</td>
-        <td style="text-align: left">Algorithmic fairness</td>
-        <td style="text-align: left">Topics: A taxonomy of fairness definitions; individual and group fairness. 
-                                     The importance of a socio-technical perspective: stakeholders and trade-offs.<br>
-                                     <b>HW2 due at 10am</b></td>
-      </tr>
-      <tr>
-        <td style="text-align: left" nowrap>Mar 14 /td>
-        <td style="text-align: left"><b>Lab</b>: AI Fairness 360<br>
-                                     <b>HW3 (fairness) assigned</b><br>
+        <td style="text-align: left" nowrap>Apr 1</td>
+        <td style="text-align: left"><b>Lecture</b>: Transparency<br>
+                                  <i>Topics: Auditing black-box models; explainable machine learning; software testing.</i>
         </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
 
-  <!-- WEEK 7 -->
-      <tr>
-        <td style="text-align: left" nowrap>Mar 25</td>
-        <td style="text-align: left">Algorithmic fairness continued<br>
-                                    <i>Topics: Impossibility results; causal definitions; fairness beyond classification.</i>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 4 /td>
+        <td style="text-align: left"><b>Lab</b>: LIME
         </td>
         <td style="text-align: left"></td>
-      </tr>
-      <tr>
-        <td style="text-align: left" nowrap>Mar 28 </td>
-        <td style="text-align: left"><b>Lab</b>: TBD<br>
-        </td>
-        <td style="text-align: left"></td>
-      </tr>
-      
-  <!-- WEEK 8 -->
-      <tr>
-        <td style="text-align: left" nowrap>Apr 8</td>
-        <td style="text-align: left">Diversity<br>
-                                   <i>Topics: Background on diversity in information retrieval, recommender systems and crowdsourcing; diversity models and algorithms; diversity vs. fairness; trade-offs between diversity and utility.</i>
-       </td>
         <td style="text-align: left"></td>
       </tr>
 
   <!-- WEEK 11 -->
+      
+      <tr>
+        <td style="text-align: left" nowrap>Apr 8</td>
+        <td style="text-align: left"><b>Lecture</b>: Transparency<br>
+                                  <i>Topics: Online price discrimination, transparency in online ad delivery.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW3 due</td>
+      </tr>
+
+       <tr>
+        <td style="text-align: left" nowrap>Apr 11 /td>
+        <td style="text-align: left"><b>Lab</b>: Quantitative Input Influence
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW4 out</td>
+      </tr>
+
+
+  <!-- WEEK 12 -->
       <tr>
         <td style="text-align: left" nowrap>Apr 15</td>
-        <td style="text-align: left">Transparency<br>
-                                  <i>Topics: Auditing black-box models; explainable machine learning; software testing.</i>
+        <td style="text-align: left"><b>Lecture</b>: From transparency to accountability<br>
+                                  <i>Topics: Transparency and accountability.  Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law.  From auditing to interpretability.</i>
         </td>
+        <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
 
-  <!-- WEEK 12 -->
+       <tr>
+        <td style="text-align: left" nowrap>Apr 18 /td>
+        <td style="text-align: left"><b>Lab</b>: Final review
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+  <!-- WEEK 13 -->
       <tr>
         <td style="text-align: left" nowrap>Apr 22</td>
         <td style="text-align: left"><b>Lecture</b>: Final exam (in class)
@@ -312,14 +320,32 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
       </tr>
 
-  <!-- WEEK 13 -->
-      <tr>
-        <td style="text-align: left" nowrap>Apr 29</td>
-        <td style="text-align: left">Transparency continued<br>
-                                  <i>Topics: Online price discrimination, transparency in online ad delivery.</i>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 25 /td>
+        <td style="text-align: left"><b>Lab</b>: Nutritional labels
         </td>
         <td style="text-align: left"></td>
+        <td style="text-align: left">Project assigned</td>
       </tr>
+
+  <!-- WEEK 14 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 29</td>
+        <td style="text-align: left"><b>Lecture</b>: Diversity<br>
+                                   <i>Topics: Background on diversity in information retrieval, recommender systems and crowdsourcing; diversity models and algorithms; diversity vs. fairness; trade-offs between diversity and utility.</i>
+       </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+     <tr>
+        <td style="text-align: left" nowrap>May 2</td>
+        <td style="text-align: left"><b>Lab</b>: Diversity
+       </td>
+       <td style="text-align: left"></td>
+       <td style="text-align: left"></td>
+      </tr>
+
 
       <tr>
         <td style="text-align: left" nowrap>Apr 29</td>
