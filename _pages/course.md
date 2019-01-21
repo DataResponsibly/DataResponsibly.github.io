@@ -59,21 +59,16 @@ author: Julia Stoyanovich
 
   <h2 id="hdr-read-req">Background Reading (required)</h2>
    <ul>
-
     <li>Barocas and Selbst (2016) "Big Data’s Disparate
     Impact" <a href="http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf">pdf</a></li>
-
     <li>White House Report on Big Data (2014) "Big Data: Seizing
     Opportunities, Preserving
     Values" <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf">pdf</a></li>
-
     <li>Brauneis and Goodman (2017) "Algorithmic Transparency for the
     Smart
     City" <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012499">pdf</a></li>
-
     <li>Kroll et al. (2017) "Accountable
     Algorithms" <a href="https://scholarship.law.upenn.edu/penn_law_review/vol165/iss3/3/">pdf</a></li>
-
    </ul>
 
  <h2 id="hdr-read-opt">Background Reading (optional)</h2>
