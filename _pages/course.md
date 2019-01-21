@@ -156,6 +156,68 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left">HW1 assigned</td>
       </tr>
+      <!-- WEEK 4 -->
+      <tr>
+        <td style="text-align: left" nowrap>Feb 18</td>
+        <td style="text-align: left"><b>No class, university holiday</b>                                    
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+       <tr>
+        <td style="text-align: left" nowrap>Feb 21</td>
+  <td style="text-align: left"><b>Lab</b>: TBD </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+  <!-- WEEK 5 -->
+      <tr>
+        <td style="text-align: left" nowrap>Feb 25</td>
+        <td style="text-align: left"><b>Lecture</b>:Anonymity and privacy<br>
+                                   <i>Topics: Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW1 due</td>
+      </tr>
+      <tr>
+        <td style="text-align: left" nowrap>Feb 28</td>
+        <td style="text-align: left"><b>Lab</b>: Data Synthesizer
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW2 assigned</td>
+      </tr>
+      <!-- WEEK 6 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 4</td>
+        <td style="text-align: left"><b>Lecture</b>: Anonymity and privacy<br>
+                                   <i>Topics: Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+      <tr>
+        <td style="text-align: left" nowrap>Mar 7</td>
+        <td style="text-align: left"><b>Lab</b>: Anonymity and privacy
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+  <!-- WEEK 7 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 11</td>
+        <td style="text-align: left"><b>Lecture</b>: Data science lifecycle, data profiling<br>
+                                  <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. </i>
+        </td>
+  <td style="text-align: left"></td>
+  <td style="text-align: left">HW2 due</td>
+      </tr>
+        <tr>
+        <td style="text-align: left" nowrap>Mar 14 </td>
+        <td style="text-align: left"><b>Lab</b>: Data cleaning
+        </td>
+  <td style="text-align: left"></td>
+  <td style="text-align: left"></td>
+      </tr>
     </tbody>
 
 
