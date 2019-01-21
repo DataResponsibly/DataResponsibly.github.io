@@ -218,6 +218,53 @@ author: Julia Stoyanovich
   <td style="text-align: left"></td>
   <td style="text-align: left"></td>
       </tr>
+      <!-- WEEK 8 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 18</td>
+        <td style="text-align: left"><b>No class, university holiday</b>                                    
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+
+       <tr>
+        <td style="text-align: left" nowrap>Mar 21</td>
+  <td style="text-align: left"><b>No class, university holiday</b> </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+  <!-- WEEK 9 -->
+      <tr>
+        <td style="text-align: left" nowrap>Mar 25</td>
+        <td style="text-align: left"><b>Lecture</b>: Data cleaning<br>
+                                  <i>Topics: Qualitative and quantitative error detection. Missing attribute values and imputation. Outlier detection; duplicate detection. Documenting data cleaning transformations.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+        <tr>
+        <td style="text-align: left" nowrap>Mar 28</td>
+        <td style="text-align: left"><b>Lab</b>: Data cleaning
+        </td>     
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW3 assigned</td>
+      </tr>
+  <!-- WEEK 10 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 1</td>
+        <td style="text-align: left"><b>Lecture</b>: Transparency<br>
+                                  <i>Topics: Auditing black-box models; explainable machine learning; software testing.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 4</td>
+        <td style="text-align: left"><b>Lab</b>: LIME
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
     </tbody>
 
 
