@@ -226,7 +226,6 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-
        <tr>
         <td style="text-align: left" nowrap>Mar 21</td>
   <td style="text-align: left"><b>No class, university holiday</b> </td>
