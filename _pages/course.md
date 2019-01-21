@@ -264,6 +264,92 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
+      <!-- WEEK 11 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 8</td>
+        <td style="text-align: left"><b>Lecture</b>: Transparency<br>
+                                  <i>Topics: Online price discrimination, transparency in online ad delivery.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW3 due</td>
+      </tr>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 11</td>
+        <td style="text-align: left"><b>Lab</b>: Quantitative Input Influence
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW4 assigned</td>
+      </tr>
+  <!-- WEEK 12 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 15</td>
+        <td style="text-align: left"><b>Lecture</b>: From transparency to accountability<br>
+                                  <i>Topics: Transparency and accountability.  Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law.  From auditing to interpretability.</i>
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 18</td>
+        <td style="text-align: left"><b>Lab</b>: Final review
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+  <!-- WEEK 13 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 22</td>
+        <td style="text-align: left"><b>Lecture</b>: Final exam (in class)
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW4 due</td>
+      </tr>
+       <tr>
+        <td style="text-align: left" nowrap>Apr 25 </td>
+        <td style="text-align: left"><b>Lab</b>: Nutritional labels
+        </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">Project assigned</td>
+      </tr>
+  <!-- WEEK 14 -->
+      <tr>
+        <td style="text-align: left" nowrap>Apr 29</td>
+        <td style="text-align: left"><b>Lecture</b>: Diversity<br>
+                                   <i>Topics: Background on diversity in information retrieval, recommender systems and crowdsourcing; diversity models and algorithms; diversity vs. fairness; trade-offs between diversity and utility.</i>
+       </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+     <tr>
+        <td style="text-align: left" nowrap>May 2</td>
+        <td style="text-align: left"><b>Lab</b>: Diversity
+       </td>
+       <td style="text-align: left"></td>
+       <td style="text-align: left"></td>
+      </tr>
+   <!-- WEEK 15 -->
+      <tr>
+        <td style="text-align: left" nowrap>May 6</td>
+        <td style="text-align: left"><b>Lecture</b>: Reproducibiilty<br>
+       </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+      </tr>
+     <tr>
+        <td style="text-align: left" nowrap>May 9</td>
+        <td style="text-align: left"><b>Lab</b>: Reproducibility
+       </td>
+       <td style="text-align: left"></td>
+       <td style="text-align: left"></td>
+      </tr>
+   <!-- WEEK 16 -->
+      <tr>
+        <td style="text-align: left" nowrap>May 13</td>
+        <td style="text-align: left"><b>Lecture</b>: Project presentations
+       </td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">Project report due</td>
+      </tr>
     </tbody>
 
 
