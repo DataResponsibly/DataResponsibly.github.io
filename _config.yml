@@ -27,7 +27,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
+timezone: TIMEZONE
 
 
 # Markdown Processing
