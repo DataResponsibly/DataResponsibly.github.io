@@ -24,7 +24,7 @@ author: Julia Stoyanovich
   <p><strong>Section Leader:</strong> <a href="mailto:ug200@nyu.edu">Udita Gupta</a>.
   Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.</p>
 
-  <p><strong>Syllabus:</strong> <a href="https://dataresponsibly.github.io/documents/Syllabus_DS-GA-3001.009_SP_2019.pdf">pdf</a></p>
+  <p><strong>Syllabus:</strong> <a href="https://dataresponsibly.github.io/documents/course_material/Syllabus_DS-GA-3001.009_SP_2019.pdf">pdf</a></p>
 
   <p><strong>Course Description:</strong>
     The first wave of data science focused on accuracy and
@@ -104,7 +104,7 @@ author: Julia Stoyanovich
         "Data, Responsibly", Abiteboul and Stoyanovich (2015) <a href="http://wp.sigmod.org/?p=1900">ACM SIGMOD blog</a>
         </td>
         <td style="text-align: left">
-            <a href="https://dataresponsibly.github.io/documents/Lecture1.pdf">slides</a>
+            <a href="https://dataresponsibly.github.io/documents/course_material/Lecture1.pdf">slides</a>
         </td>
         <td style="text-align: left"></td>
       </tr>
