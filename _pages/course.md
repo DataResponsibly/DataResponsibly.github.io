@@ -208,7 +208,7 @@ author: Julia Stoyanovich
       </tr>
         <tr>
         <td style="text-align: left" nowrap>Mar 14 </td>
-        <td style="text-align: left"><b>Lab</b>: Data cleaning
+        <td style="text-align: left"><b>Lab</b>: Data profiling
         </td>
   <td style="text-align: left"></td>
   <td style="text-align: left"></td>
