@@ -145,7 +145,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Feb 14</td>
         <td style="text-align: left"><b>Lab</b>: IBM's AI Fairness 360 toolkit</td>
         <td style="text-align: left"></td>
@@ -159,9 +159,9 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Feb 21</td>
-  <td style="text-align: left"><b>Lab</b>: TBD </td>
+        <td style="text-align: left"><b>Lab</b>: TBD </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
@@ -203,15 +203,15 @@ author: Julia Stoyanovich
         <td style="text-align: left"><b>Lecture</b>: Data science lifecycle, data profiling<br>
                                   <i>Topics: Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. </i>
         </td>
-  <td style="text-align: left"></td>
-  <td style="text-align: left">HW2 due</td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left">HW2 due</td>
       </tr>
-        <tr>
+      <tr>
         <td style="text-align: left" nowrap>Mar 14 </td>
         <td style="text-align: left"><b>Lab</b>: Data profiling
         </td>
-  <td style="text-align: left"></td>
-  <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
+        <td style="text-align: left"></td>
       </tr>
       <!-- WEEK 8 -->
       <tr>
@@ -221,9 +221,9 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Mar 21</td>
-  <td style="text-align: left"><b>No class, university holiday</b> </td>
+        <td style="text-align: left"><b>No class, university holiday</b> </td>
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
@@ -236,7 +236,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-        <tr>
+      <tr>
         <td style="text-align: left" nowrap>Mar 28</td>
         <td style="text-align: left"><b>Lab</b>: Data cleaning
         </td>     
@@ -252,7 +252,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Apr 4</td>
         <td style="text-align: left"><b>Lab</b>: LIME
         </td>
@@ -268,7 +268,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left">HW3 due</td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Apr 11</td>
         <td style="text-align: left"><b>Lab</b>: Quantitative Input Influence
         </td>
@@ -284,7 +284,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Apr 18</td>
         <td style="text-align: left"><b>Lab</b>: Final review
         </td>
@@ -299,7 +299,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left">HW4 due</td>
       </tr>
-       <tr>
+      <tr>
         <td style="text-align: left" nowrap>Apr 25 </td>
         <td style="text-align: left"><b>Lab</b>: Nutritional labels
         </td>
@@ -330,7 +330,7 @@ author: Julia Stoyanovich
         <td style="text-align: left"></td>
         <td style="text-align: left"></td>
       </tr>
-     <tr>
+      <tr>
         <td style="text-align: left" nowrap>May 9</td>
         <td style="text-align: left"><b>Lab</b>: Reproducibility
        </td>
@@ -346,8 +346,5 @@ author: Julia Stoyanovich
         <td style="text-align: left">Project report due</td>
       </tr>
     </tbody>
-
-
   </table>
-
  </div>
