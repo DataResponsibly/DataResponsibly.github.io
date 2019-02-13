@@ -1,8 +1,14 @@
+- title: "Designing Fair Ranking Schemes"
+  authors: Abolfazl Asudeh, H. V. Jagadish, Julia Stoyanovich, and Gautam Das
+  link:
+    url: https://arxiv.org/pdf/1712.09752.pdf
+    display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
+
 - title: "On Obtaining Stable Rankings"
   authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
   link:
-    url: https://arxiv.org/abs/1804.10990
-    display:  "CoRR abs/1804.10990 (2018)"
+    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
+    display:  "PVLDB 12(3): 237-250 (2018)"
 
 - title: "Panel: A Debate on Data and Algorithmic Ethics"
   authors: Julia Stoyanovich, Bill Howe, H. V. Jagadish, Gerome Miklau
@@ -33,7 +39,7 @@
   description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
   authors: Ke Yang, Julia Stoyanovich, Abolfazl Asudeh, Bill Howe, HV Jagadish and Gerome Miklau
   link:
-    url: https://arxiv.org/abs/1804.07890
+    url: https://dl.acm.org/citation.cfm?doid=3183713.3193568
     display: Proceedings of ACM SIGMOD (demo), 2018
   highlight: 1
 
@@ -49,8 +55,8 @@
 - title: "MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets"
   authors: Luke Rodriguez, Babak Salimi, Haoyue Ping, Julia Stoyanovich and Bill Howe
   link:
-    url: https://arxiv.org/abs/1808.07151
-    display: BiDU, 2018
+    url: https://link.springer.com/chapter/10.1007%2F978-3-030-11238-7_2
+    display: BiDU@VLDB 2018: 18-39
 
 - title: "Diversity in Big Data: A Review"
   authors: Marina Drosou, HV Jagadish, Evaggelia Pitoura and Julia Stoyanovich
