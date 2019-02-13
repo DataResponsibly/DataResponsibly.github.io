@@ -16,6 +16,15 @@
     display:  NYU Center for Data Science, October 30, 2018
   highlight: 1
 
+- title: "Government Is Using Algorithms — Is It Assessing Bias?"
+  authors:
+  image: bias_philly.jpg
+  description: Philadelphia's mayor and staff have pushed for evidence-based decision making through their collaboration GovLaBPHL, which studies human interaction, but are they making steps to ensure unbiased data?
+  link:
+    url: http://www.govtech.com/dc/Government-is-Using-Algorithms-Are-They-Assessing-Bias.html
+    display: http://www.govtech.com, December 10, 2018
+  highlight: 1
+
 - title: "NYC Has An Algorithm Ethics Task Force, And Drexel Prof Julia Stoyanovich Is Involved"
   authors:
   image: philly_citybizlist.jpg
