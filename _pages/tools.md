@@ -23,7 +23,8 @@ permalink: /tools/
   </a>
   <h4><a href="{{ tooli.url }}">{{ tooli.name }}</a></h4>
   <em>{{ tooli.info }}</em><br>
-  <p>{{ tooli.description }}</p>
+  <p>{{ tooli.description }}<a href="{{ tooli.github_repo }}"><i class="fab fa-github-square fa-2x"></i></a></p>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
