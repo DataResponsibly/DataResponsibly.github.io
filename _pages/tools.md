@@ -23,7 +23,7 @@ permalink: /tools/
   </a>
   <h4><a href="{{ tooli.url }}">{{ tooli.name }}</a></h4>
   <em>{{ tooli.info }}</em><br>
-  <p>{{ tooli.description }}<a href="{{ tooli.github_repo }}"><i class="fa fa-github-square fa-2x"></i></a></p>
+  <p>{{ tooli.description }} <a href="{{ tooli.github_repo }}"><i class="fa fa-github-square"></i></a></p>
 
 </div>
 
