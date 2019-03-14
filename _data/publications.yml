@@ -4,11 +4,17 @@
     url: https://arxiv.org/pdf/1712.09752.pdf
     display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
 
-- title: "On Obtaining Stable Rankings"
-  authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
+-title: "MithraRanking: A System for Responsible Ranking Design" (demonstration)
+  authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
   link:
-    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
-    display:  "PVLDB 12(3): 237-250 (2018)"
+    url: https://arxiv.org/pdf/1712.09752.pdf
+    display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"   
+
+-title: "Transparency, Fairness, Data Protection, Neutrality: Data Management Challenges in the Face of New Regulation"
+  authors: Serge Abiteboul and Julia Stoyanovich
+  link:
+    url: https://arxiv.org/pdf/1903.03683.pdf
+    display:  "ACM Journal of Data and Information Quality, 2019 (forthcoming)"
 
 - title: "Panel: A Debate on Data and Algorithmic Ethics"
   authors: Julia Stoyanovich, Bill Howe, H. V. Jagadish, Gerome Miklau
