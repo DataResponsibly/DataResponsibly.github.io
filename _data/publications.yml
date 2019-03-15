@@ -4,13 +4,13 @@
     url: https://arxiv.org/pdf/1712.09752.pdf
     display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
 
--title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
+- title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
   authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
   link:
     url: https://arxiv.org/pdf/1712.09752.pdf
     display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"   
 
--title: "Transparency, Fairness, Data Protection, Neutrality: Data Management Challenges in the Face of New Regulation"
+- title: "Transparency, Fairness, Data Protection, Neutrality: Data Management Challenges in the Face of New Regulation"
   authors: Serge Abiteboul and Julia Stoyanovich
   link:
     url: https://arxiv.org/pdf/1903.03683.pdf
