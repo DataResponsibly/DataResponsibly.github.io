@@ -1,3 +1,10 @@
+- title: "TransFAT: Translating Fairness, Accountability and Transparency into Data Science Practice"
+  authors: Slides (Julia Stoyanovich)
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/RDA.pdf
+    display:  Keynote at Research Data Alliance (RDA) 13th Plenary Meeting
+
 - title: "A Technical Research Agenda in Data Ethics and Responsible Data Management"
   authors: ACM SIGMOD 2018 special session
   number_link: 4
