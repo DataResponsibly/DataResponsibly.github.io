@@ -4,6 +4,12 @@
     url: https://arxiv.org/pdf/1712.09752.pdf
     display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
 
+- title: "On Obtaining Stable Rankings"
+  authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
+  link:
+    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
+    display:  "PVLDB 12(3): 237-250 (2018)"
+    
 - title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
   authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
   link:
