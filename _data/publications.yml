@@ -1,15 +1,15 @@
+- title: "Balanced Ranking with Diversity Constraints"
+  authors: Ke Yang, Vasilis Gkatzelis, and Julia Stoyanovich
+  link:
+    url: 
+    display:  "Proceedings of IJCAI 2019 (forthcoming)"
+   
 - title: "Designing Fair Ranking Schemes"
   authors: Abolfazl Asudeh, H. V. Jagadish, Julia Stoyanovich, and Gautam Das
   link:
     url: https://arxiv.org/pdf/1712.09752.pdf
     display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
 
-- title: "On Obtaining Stable Rankings"
-  authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
-  link:
-    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
-    display:  "PVLDB 12(3): 237-250 (2018)"
-    
 - title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
   authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
   link:
@@ -22,6 +22,12 @@
     url: https://arxiv.org/pdf/1903.03683.pdf
     display:  "ACM Journal of Data and Information Quality, 2019 (forthcoming)"
 
+- title: "On Obtaining Stable Rankings"
+  authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
+  link:
+    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
+    display:  "PVLDB 12(3): 237-250 (2018)"
+    
 - title: "Panel: A Debate on Data and Algorithmic Ethics"
   authors: Julia Stoyanovich, Bill Howe, H. V. Jagadish, Gerome Miklau
   link:
