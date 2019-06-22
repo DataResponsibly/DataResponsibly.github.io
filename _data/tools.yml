@@ -13,7 +13,7 @@
   github_repo: https://github.com/DataResponsibly/DataSynthesizer
 
 - name: DesertPref
-  photo: desserts.png
+  photo: desserts.jpg
   info: Collect incomplete preferences
   description: This tool is an experiment in which you have to choose (or not) between two desserts several times. It will enable us to have a real dataset of partial preferences, which is really useful to test our voting aggregation algorithms and to see if our theoretical model is correct.
   url: http://tool.dataresponsibly.com/desertpref.php
