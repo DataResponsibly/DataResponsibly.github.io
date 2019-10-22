@@ -1,10 +1,14 @@
 - title: "TransFAT: Translating Fairness, Accountability and Transparency into Data Science Practice"
   authors: Slides (Julia Stoyanovich)
-  number_link: 2
-  link1:
+  number_link: 1
+  link:
     url: https://dataresponsibly.github.io/documents/GA4GH.pdf
-    display:  Keynote at Global Aliance for Genomics \& Health (GA4GH) 7th Plenary Meeting
-  link2:
+    display:  Keynote at Global Aliance for Genomics & Health (GA4GH) 7th Plenary Meeting
+    
+- title: "TransFAT: Translating Fairness, Accountability and Transparency into Data Science Practice"
+  authors: Slides (Julia Stoyanovich)
+  number_link: 1    
+  link:
     url: https://dataresponsibly.github.io/documents/RDA.pdf
     display:  Keynote at Research Data Alliance (RDA) 13th Plenary Meeting
 
