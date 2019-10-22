@@ -1,27 +1,39 @@
 - title: "Balanced Ranking with Diversity Constraints"
   authors: Ke Yang, Vasilis Gkatzelis, and Julia Stoyanovich
   link:
-    url: 
-    display:  "Proceedings of IJCAI 2019 (forthcoming)"
+    url: https://www.ijcai.org/proceedings/2019/0836.pdf
+    display:  "Proceedings of IJCAI 2019"
    
 - title: "Designing Fair Ranking Schemes"
   authors: Abolfazl Asudeh, H. V. Jagadish, Julia Stoyanovich, and Gautam Das
   link:
-    url: https://arxiv.org/pdf/1712.09752.pdf
-    display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"
+    url: https://dataresponsibly.github.io/documents/p1259-asudeh.pdf
+    display:  "Proceedings of ACM SIGMOD, 2019"
 
 - title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
   authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
   link:
     url: https://dataresponsibly.github.io/documents/mde783-guanA.pdf
-    display:  "Proceedings of ACM SIGMOD, 2019 (forthcoming)"   
+    display:  "Proceedings of ACM SIGMOD, 2019"   
 
 - title: "Transparency, Fairness, Data Protection, Neutrality: Data Management Challenges in the Face of New Regulation"
   authors: Serge Abiteboul and Julia Stoyanovich
   link:
-    url: https://arxiv.org/pdf/1903.03683.pdf
-    display:  "ACM Journal of Data and Information Quality, 2019 (forthcoming)"
+    url: https://dataresponsibly.github.io/documents/a15-abiteboul.pdf
+    display:  "ACM Journal of Data and Information Quality, 2019"
+    
+- title: "Nutritional Labels for Data and Models"
+  authors: Julia Stoyanovich and Bill Howe
+  link:
+    url: http://sites.computer.org/debull/A19sept/p13.pdf
+    display:  "IEEE Data Engineering Bulletin 42(3): 13-23 (2019)"
 
+- title: "Towards Responsible Data-driven Decision Making in Score-Based Systems"
+  authors: Abolfazl Asudeh, H. V. Jagadish, and Julia Stoyanovich	
+  link:
+    url: http://sites.computer.org/debull/A19sept/p76.pdf
+    display:  "IEEE Data Engineering Bulletin 42(3): 76-87 (2019)"
+    
 - title: "On Obtaining Stable Rankings"
   authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
   link:
