@@ -1,21 +1,41 @@
 ---
 title: DataResponsibly - Courses
+layout: gridlay
 excerpt: "Data Responsibly - Courses"
 sitemap: false
 permalink: /courses/
-author: Julia Stoyanovich
 ---
 
 
-# Data Responsibly Courses
+## Data Responsibly Courses
 
-This is an index page for courses, which are related with [Data Responsibly](https://dataresponsibly.github.io/) and are taught by Prof. [Julia Stoyanovich](http://stoyanovich.org/) at NYU. 
+Here list the courses that are taught by Prof. [Julia Stoyanovich](http://stoyanovich.org/) at NYU. 
 
-<!-- To access each course, go to the url: https://dataresponsibly.github.io/courses/ + "semester" + "year(2 digits)". -->
+{% for coursei in site.data.courses %}
 
-<!-- For example, to access a course opens during **Spring semester 2019**, go to "https://dataresponsibly.github.io/courses/spring19". -->
+  {{ coursei.title }} <br />
+  <em>{{ coursei.authors }} </em>
 
-<!-- ## Past or ongoing courses can be found below. -->
+  {% if coursei.number_link == 1 %}
+  <a href="{{ coursei.link.url }}">{{ coursei.link.display }}</a>
+  {% endif %}
 
-* 2019 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19)
-* 2020 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring20) course in progress
+  {% if coursei.number_link == 2 %}
+  <a href="{{ coursei.link1.url }}">{{ coursei.link1.display }}</a>,
+  <a href="{{ coursei.link2.url }}">{{ coursei.link2.display }}</a>
+  {% endif %}
+
+  {% if coursei.number_link == 3 %}
+  <a href="{{ coursei.link1.url }}">{{ coursei.link1.display }}</a>,
+  <a href="{{ coursei.link2.url }}">{{ coursei.link2.display }}</a>,
+  <a href="{{ coursei.link3.url }}">{{ coursei.link3.display }}</a>
+  {% endif %}
+
+  {% if coursei.number_link == 4 %}
+  <a href="{{ coursei.link1.url }}">{{ coursei.link1.display }}</a>,
+  <a href="{{ coursei.link2.url }}">{{ coursei.link2.display }}</a>,
+  <a href="{{ coursei.link3.url }}">{{ coursei.link3.display }}</a>,
+  <a href="{{ coursei.link4.url }}">{{ coursei.link4.display }}</a>
+  {% endif %}
+
+{% endfor %}
