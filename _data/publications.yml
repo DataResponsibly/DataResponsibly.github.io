@@ -9,7 +9,10 @@
   link:
     url: https://dataresponsibly.github.io/documents/fairprep_short.pdf
     display:  "EDBT 2020 (short paper)"
- link:
+    
+ - title: "FairPrep: Promoting Data to a First-Class Citizen in Studies on Fairness-Enhancing Interventions"
+   authors: Sebastian Schelter, Yuxuan He, Jatin Khilnani, and Julia Stoyanovich
+   link:
     url: https://arxiv.org/abs/1911.12587
     display:  "arXiv, November 2019"
     
