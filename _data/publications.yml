@@ -9,7 +9,7 @@
   number_link: 2
   link1:
     url: https://dataresponsibly.github.io/documents/fairprep_short.pdf
-    display:  EDBT 2020 (short paper)
+    display:  "EDBT 2020 (short paper)"
   link2:
     url: https://arxiv.org/abs/1911.12587
     display:  "arXiv, November 2019"
