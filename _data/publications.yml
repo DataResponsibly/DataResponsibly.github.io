@@ -1,3 +1,24 @@
+- title: "Zooming Out on an Evolving Graph"
+  authors: 	Amir Aghasadeghi, Vera Moffitt, Sebastian Schelter, and Julia Stoyanovich
+  link:
+    url: https://dataresponsibly.github.io/documents/portalzoom.pdf
+    display:  "EDBT 2020"
+
+- title: "FairPrep: Promoting Data to a First-Class Citizen in Studies on Fairness-Enhancing Interventions"
+  authors: Sebastian Schelter, Yuxuan He, Jatin Khilnani, and Julia Stoyanovich
+  link:
+    url: https://dataresponsibly.github.io/documents/fairprep_short.pdf
+    display:  "EDBT 2020 (short paper)"
+ link:
+    url: https://arxiv.org/abs/1911.12587
+    display:  "arXiv, November 2019"
+    
+ - title: "Teaching Responsible Data Science: Charting New Pedagogical Territory"
+  authors: Julia Stoyanovich and Armanda Lewis
+  link:
+    url: https://arxiv.org/abs/1912.10564
+    display:  "arXiv, December 2019"
+
 - title: "Balanced Ranking with Diversity Constraints"
   authors: Ke Yang, Vasilis Gkatzelis, and Julia Stoyanovich
   link:
