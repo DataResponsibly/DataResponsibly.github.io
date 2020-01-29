@@ -57,8 +57,23 @@ Jump to [full list](#full-list), [reports](#reports), [blogs and popular press](
 {% for publi in site.data.publications %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br />
+  
+  {% if publi.number_link == 1 %}
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% endif %}
 
+  {% if publi.number_link == 2 %}
+  <a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>,
+  <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+  {% endif %}
+  
+  {% if publi.number_link == 3 %}
+  <a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>,
+  <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>,
+  <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
+  {% endif %}
+  
 {% endfor %}
 
 ## Reports
