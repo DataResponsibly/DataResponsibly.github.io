@@ -1,10 +1,3 @@
-- title: "Zooming Out on an Evolving Graph"
-  authors: 	Amir Aghasadeghi, Vera Moffitt, Sebastian Schelter, and Julia Stoyanovich
-  number_link: 1
-  link:
-    url: https://dataresponsibly.github.io/documents/portalzoom.pdf
-    display:  "EDBT 2020"
-
 - title: "FairPrep: Promoting Data to a First-Class Citizen in Studies on Fairness-Enhancing Interventions"
   authors: Sebastian Schelter, Yuxuan He, Jatin Khilnani, and Julia Stoyanovich
   number_link: 2
@@ -63,6 +56,13 @@
   link:
     url: http://sites.computer.org/debull/A19sept/p76.pdf
     display:  "IEEE Data Engineering Bulletin 42(3): 76-87 (2019)"
+    
+- title: "TransFAT: Translating Fairness, Accountably and Transparency into Data Science Practice"
+  authors: Julia Stoyanovich	
+  number_link: 1
+  link:
+    url: http://ceur-ws.org/Vol-2417/paper1.pdf
+    display:  "International Workshop on Processing Information Ethically (PIE@CAiSE) (2019)"   
     
 - title: "On Obtaining Stable Rankings"
   authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
