@@ -7,6 +7,9 @@
   link2:
     url: https://arxiv.org/abs/1911.12587
     display:  "arXiv, November 2019"
+  link3:
+    url: https://dataresponsibly.github.io/documents/FairPrep_EDBTtalk.mp4
+    display:  "EDBT talk video"
     
 - title: "Teaching Responsible Data Science: Charting New Pedagogical Territory"
   authors: Julia Stoyanovich and Armanda Lewis
