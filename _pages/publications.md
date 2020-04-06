@@ -73,6 +73,31 @@ Jump to [full list](#full-list), [reports](#reports), [blogs and popular press](
   <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>,
   <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
   {% endif %}
+
+
+  {% if publi.number_link == 4 %}
+  <a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>,
+  <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>,
+  <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>,
+  <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>
+  {% endif %}
+
+  {% if publi.number_link == 5 %}
+  <a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>,
+  <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>,
+  <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>,
+  <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>,
+  <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>
+  {% endif %}
+
+  {% if publi.number_link == 6 %}
+  <a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>,
+  <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>,
+  <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>,
+  <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>,
+  <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>,
+  <a href="{{ publi.link6.url }}">{{ publi.link6.display }}</a>
+  {% endif %}
   
 {% endfor %}
 
@@ -89,6 +114,21 @@ Jump to [full list](#full-list), [reports](#reports), [blogs and popular press](
   {% if reporti.number_link == 2 %}
   <a href="{{ reporti.link1.url }}">{{ reporti.link1.display }}</a>,
   <a href="{{ reporti.link2.url }}">{{ reporti.link2.display }}</a>
+  {% endif %}
+
+
+  {% if reporti.number_link == 3 %}
+  <a href="{{ reporti.link1.url }}">{{ reporti.link1.display }}</a>,
+  <a href="{{ reporti.link2.url }}">{{ reporti.link2.display }}</a>,
+  <a href="{{ reporti.link3.url }}">{{ reporti.link3.display }}</a>
+  {% endif %}
+
+
+  {% if reporti.number_link == 4 %}
+  <a href="{{ reporti.link1.url }}">{{ reporti.link1.display }}</a>,
+  <a href="{{ reporti.link2.url }}">{{ reporti.link2.display }}</a>,
+  <a href="{{ reporti.link3.url }}">{{ reporti.link3.display }}</a>,
+  <a href="{{ reporti.link4.url }}">{{ reporti.link4.display }}</a>
   {% endif %}
 
 {% endfor %}
