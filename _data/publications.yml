@@ -5,6 +5,20 @@
     url: https://rdcu.be/b3xJe
     display:  "Nature Machine Intelligence, April 2020"
     
+- title: "Causal intersectionality for fair ranking"
+  authors: Ke Yang, Joshua R. Loftus, and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://arxiv.org/abs/2006.0868
+    display:  "arXiv, June 2020"
+    
+- title: "Fairness-Aware Instrumentation of Preprocessing Pipelines for Machine Learning"
+  authors: Ke Yang, Biao Huang, Julia Stoyanovich, and Sebastian Schelter
+  number_link: 1
+  link:
+    url: https://hilda.io/2020/proceedings/HILDA2020_paper9.pdf
+    display:  "Proceedings of HILDA 2020 (an ACM SIGMOD workshop)"
+    
 - title: "FairPrep: Promoting Data to a First-Class Citizen in Studies on Fairness-Enhancing Interventions"
   authors: Sebastian Schelter, Yuxuan He, Jatin Khilnani, and Julia Stoyanovich
   number_link: 3
