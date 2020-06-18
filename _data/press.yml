@@ -7,15 +7,6 @@
     display:  NYU Center for Data Science, February 17, 2020
   highlight: 1
 
-- title: "Follow the Data! Algorithmic Transparency Starts with Data Transparency"
-  authors: Julia Stoyanovich and Bill Howe
-  image: ai_shorensteincenter.jpeg
-  description: The data revolution that is transforming every sector of science and industry has been slow to reach the local and municipal governments and NGOs that deliver vital human services in health, housing, and mobility. Urbanization has made the issue acute in 2016, more than half of North Americans lived in cities with at least 500,000 inhabitants.
-  link:
-    url: https://ai.shorensteincenter.org/ideas/2018/11/26/follow-the-data-algorithmic-transparency-starts-with-data-transparency
-    display:  The Ethical Machine, November 27, 2018
-  highlight: 1
-
 - title: "An Algorithmic Approach to Correct Bias in Urban Transportation Datasets"
   authors:
   image: cds_medium.jpeg
