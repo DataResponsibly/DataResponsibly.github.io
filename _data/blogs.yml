@@ -1,10 +1,3 @@
-- title: "Follow the Data! Algorithmic Transparency Starts with Data Transparency"
-  authors: Julia Stoyanovich and Bill Howe
-  link:
-    url: https://ai.shorensteincenter.org/ideas/2018/11/26/follow-the-data-algorithmic-transparency-starts-with-data-transparency
-    display:  The Ethical Machine, November 27, 2018
-  highlight: 1
-
 - title: "Testimony of Julia Stoyanovich and Solon Barocas before New York City Council Committee on Technology, regarding Update on Local Law 49 of 2018 in Relation to Automated Decision Systems (ADS) Used by Agencies"
   authors: Julia Stoyanovich and Solon Barocas
   link:
@@ -17,6 +10,13 @@ Commission on Public Information and Communication (COPIC)"
   link:
     url: https://dataresponsibly.github.io/documents/Stoyanovich_COPIC.pdf
     display:  February 12, 2019
+
+- title: "Follow the Data! Algorithmic Transparency Starts with Data Transparency"
+  authors: Julia Stoyanovich and Bill Howe
+  link:
+    url: https://ai.shorensteincenter.org/ideas/2018/11/26/follow-the-data-algorithmic-transparency-starts-with-data-transparency
+    display:  The Ethical Machine, November 27, 2018
+  highlight: 1
 
 - title: "An Algorithmic Approach to Correct Bias in Urban Transportation Datasets"
   authors:
