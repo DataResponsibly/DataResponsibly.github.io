@@ -1,11 +1,11 @@
-- name: Ranking Facts
+- name: RankingFacts
   photo: ranking-facts.png
   info: A nutritional label for rankings
   description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
   url: http://demo.dataresponsibly.com/rankingfacts
   github_repo: https://github.com/DataResponsibly/RankingFacts
 
-- name: Data Synthesizer
+- name: DataSynthesizer
   photo: synthesizer.png
   info: Privacy-preserving synthetic data generator
   description: Data Synthesizer is a tool for privacy-preserving syntehtic data generation.  Use it through the Web-based UI or as an open-source python library.
