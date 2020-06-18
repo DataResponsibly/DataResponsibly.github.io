@@ -127,6 +127,7 @@
   image: ranking-facts.png
   description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
   authors: Ke Yang, Julia Stoyanovich, Abolfazl Asudeh, Bill Howe, HV Jagadish and Gerome Miklau
+  number_link: 1
   link:
     url: https://dl.acm.org/citation.cfm?doid=3183713.3193568
     display: Proceedings of ACM SIGMOD (demo), 2018
@@ -136,6 +137,7 @@
   authors: Julia Stoyanovich, Ke Yang and HV Jagadish
   image: online_selection_edbt18.png
   description: Selection algorithms usually score individual items in isolation, and then select the top scoring items. However, often there is an additional diversity objective. Since diversity is a group property, it does not easily jibe with individual item scoring.
+  number_link: 1
   link:
     url: http://openproceedings.org/2018/conf/edbt/paper-98.pdf
     display:  Proceedings of EDBT, 2018
@@ -167,6 +169,7 @@
   image: synthesizer.png
   description: To facilitate collaboration over sensitive data, we present DataSynthesizer, a tool that takes a sensitive dataset as input and generates a structurally and statistically similar synthetic dataset with strong privacy guarantees.
   authors: Haoyue Ping, Julia Stoyanovich and Bill Howe
+  number_link: 1
   link:
     url: http://dl.acm.org/citation.cfm?doid=3085504.3091117
     display:  Proceedings of SSDBM, 2017
@@ -176,6 +179,7 @@
   image: fides.png
   description:  We see a need for a data sharing and collaborative analytics platform with features to encourage (and in some cases, enforce) best practices at all stages of the data science lifecycle. We propose Fides, in the context of urban analytics, outlining a systems research agenda in responsible data science.
   authors: Bill Howe, Julia Stoyanovichi, Serge Abiteboul, Gerome Miklau, Arnaud Sahuguet and Gerhard Weikum
+  number_link: 1
   link:
     url: http://dl.acm.org/citation.cfm?doid=3085504.3085530
     display:  Proceedings of SSDBM, 2017
