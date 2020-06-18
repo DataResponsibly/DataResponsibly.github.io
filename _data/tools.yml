@@ -1,14 +1,14 @@
 - name: Ranking Facts
   photo: ranking-facts.png
-  info: Make ranking fair
+  info: A nutritional label for rankings
   description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
   url: http://demo.dataresponsibly.com/rankingfacts
   github_repo: https://github.com/DataResponsibly/RankingFacts
 
 - name: Data Synthesizer
   photo: synthesizer.png
-  info: Privacy-preserving synthetic datasets
-  description: DataSynthesizer consists of three high-level modules - DataDescriber, DataGenerator and ModelInspector. The first, DataDescriber, investigates the data types, correlations and distributions of the attributes in the private dataset, and produces a data summary, adding noise to the distributions to preserve privacy. DataGenerator samples from the summary computed by DataDescriber and outputs synthetic data. ModelInspector shows an intuitive description of the data summary that was computed by DataDescriber, allowing the data owner to evaluate the accuracy of the summarization process and adjust any parameters, if desired.
+  info: Privacy-preserving synthetic data generator
+  description: Data Synthesizer is a tool for privacy-preserving syntehtic data generation.  Use it through the Web-based UI or as an open-source python library.
   url: http://demo.dataresponsibly.com/synthesizer
   github_repo: https://github.com/DataResponsibly/DataSynthesizer
 
@@ -18,3 +18,10 @@
   description: An open-source library that extracts directed acyclic graph (DAG) representations of the data flow in preprocessing pipelines for Machine Learning.
   url: https://dataresponsibly.hpc.nyu.edu/fairdags
   github_repo: https://github.com/DataResponsibly/fairDAGs
+  
+ - name: FairPrep
+  photo: fairprep.jog
+  info: Fairness-aware instrumentation of preprocessing pipelines for Machine Learning
+  description: A design and evaluation framework for fairness-enhancing interventions that helps data scientists follow best practices in Machine Learning design and experimentation. 
+  url: https://github.com/DataResponsibly/FairPrep
+  github_repo: https://github.com/DataResponsibly/FairPrep
