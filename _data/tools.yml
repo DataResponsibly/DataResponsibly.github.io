@@ -14,14 +14,14 @@
 
 - name: fairDAGs
   photo: fairdag.png
-  info: Fairness-aware instrumentation of preprocessing pipelines for Machine Learning
+  info: Fairness-aware instrumentation of Machine Learning pipelines
   description: An open-source library that extracts directed acyclic graph (DAG) representations of the data flow in preprocessing pipelines for Machine Learning.
   url: https://dataresponsibly.hpc.nyu.edu/fairdags
   github_repo: https://github.com/DataResponsibly/fairDAGs
   
 - name: FairPrep
   photo: fairprep.jpg
-  info: Fairness-aware instrumentation of preprocessing pipelines for Machine Learning
-  description: A design and evaluation framework for fairness-enhancing interventions that helps data scientists follow best practices in Machine Learning design and experimentation. 
+  info: Design and evaluation framework for incorporating fairness-enhancing interventions into Machine Learning pipelines
+  description: An open-source library that helps data scientists incororate fairness-enhancing interventions into complex pipelines, while following best practices in design and experimentation. 
   url: https://github.com/DataResponsibly/FairPrep
   github_repo: https://github.com/DataResponsibly/FairPrep
