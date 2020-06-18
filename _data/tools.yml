@@ -19,7 +19,7 @@
   url: https://dataresponsibly.hpc.nyu.edu/fairdags
   github_repo: https://github.com/DataResponsibly/fairDAGs
   
- - name: FairPrep
+- name: FairPrep
   photo: fairprep.jpg
   info: Fairness-aware instrumentation of preprocessing pipelines for Machine Learning
   description: A design and evaluation framework for fairness-enhancing interventions that helps data scientists follow best practices in Machine Learning design and experimentation. 
