@@ -1,3 +1,10 @@
+- title: "Responsible Data Management"
+  authors: Julia Stoyanovich, Bill Howe, and H.V. Jagadish
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/mirror.pdf
+    display:  "VLDB 2020, invited paper accompanying keynote presentation (preprint)"
+    
 - title: "The Imperative of Interpretable Machines"
   authors: Julia Stoyanovich, Jay J. Van Bavel, and Tessa V. West
   number_link: 1
