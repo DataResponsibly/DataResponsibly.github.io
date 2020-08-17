@@ -3,7 +3,7 @@
   number_link: 1
   link:
     url: https://dataresponsibly.github.io/documents/mirror.pdf
-    display:  "VLDB 2020, invited paper accompanying keynote presentation (preprint)"
+    display:  "PVLDB 13(12): 3474-3489 (2020), invited paper accompanying VLDB 2020 keynote presentation"
     
 - title: "The Imperative of Interpretable Machines"
   authors: Julia Stoyanovich, Jay J. Van Bavel, and Tessa V. West
