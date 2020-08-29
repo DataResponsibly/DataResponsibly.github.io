@@ -7,9 +7,9 @@ permalink: /comics/
 ---
 
 
-# Data, Responsibly Comic Series
+## Data, Responsibly Comic Series
 
-## Volumns
+### Volumns
 
 {% assign number_printed = 0 %}
 {% for comi in site.data.comics %}
@@ -24,7 +24,7 @@ permalink: /comics/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ comi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="70%" style="float: left" /><br />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
   
