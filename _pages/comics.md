@@ -6,7 +6,7 @@ sitemap: false
 permalink: /comics/
 ---
 
-### Volumns
+### Volumes
 
 {% assign number_printed = 0 %}
 {% for comi in site.data.comics %}
@@ -18,7 +18,7 @@ permalink: /comics/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-6">
  <div class="well">
   <pubtit>{{ comi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" style="float: left" />
