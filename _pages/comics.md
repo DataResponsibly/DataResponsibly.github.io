@@ -6,9 +6,6 @@ sitemap: false
 permalink: /comics/
 ---
 
-
-## Data, Responsibly Comic Series
-
 ### Volumns
 
 {% assign number_printed = 0 %}
@@ -24,7 +21,7 @@ permalink: /comics/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ comi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="50%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="35%" style="float: left" />
   <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
   
@@ -35,13 +32,13 @@ permalink: /comics/
   {% endif %}
 
   {% if comi.number_link == 2 %}
-  <p><strong><a href="{{ comi.link1.url }}">{{ comi.link1.display }}</a></strong></p>,
+  <p><strong><a href="{{ comi.link1.url }}">{{ comi.link1.display }}</a></strong></p>
   <p><strong><a href="{{ comi.link2.url }}">{{ comi.link2.display }}</a></strong></p>
   {% endif %}
   
   {% if comi.number_link == 3 %}
-  <p><strong><a href="{{ comi.link1.url }}">{{ comi.link1.display }}</a></strong></p>,
-  <p><strong><a href="{{ comi.link2.url }}">{{ comi.link2.display }}</a></strong></p>,
+  <p><strong><a href="{{ comi.link1.url }}">{{ comi.link1.display }}</a></strong></p>
+  <p><strong><a href="{{ comi.link2.url }}">{{ comi.link2.display }}</a></strong></p>
   <p><strong><a href="{{ comi.link3.url }}">{{ comi.link3.display }}</a></strong></p>
   {% endif %}
  
