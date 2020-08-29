@@ -1,0 +1,15 @@
+- title: "Mirror, Mirror"
+  image: Mirror_Mirror_Cover.png
+  description: Volumn 1
+  authors: Falaah Arif Khan and Julia Stoyanovich
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/comics/vol1/mirror_en.pdf
+    display:  "Comic book"
+  link2:
+    url: https://dataresponsibly.github.io/comics/vol1/Transcript.docx
+    display:  "Transcript"
+  link3:
+    url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
+    display:  "A Note on Accessibility"
+  highlight: 1
