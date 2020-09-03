@@ -1,3 +1,10 @@
+- title: "Responsible Data Management"
+  authors: Slides (Julia Stoyanovich)
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/Stoyanovich_VLDB2020.pdf
+    display:  Keynote at VLDB 2020
+
 - title: "TransFAT: Translating Fairness, Accountability and Transparency into Data Science Practice"
   authors: Slides (Julia Stoyanovich)
   number_link: 1
