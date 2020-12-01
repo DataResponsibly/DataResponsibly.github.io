@@ -13,3 +13,18 @@
     url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
     display:  "A Note on Accessibility"
   highlight: 1
+- title: "Volumen 1 - Espejito, Espejito"
+  image: Mirror_Cover_es.png
+  description: Data, Responsibly comic series (Spanish Edition)
+  authors: Falaah Arif Khan and Julia Stoyanovich
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/comics/vol1/mirror_es.pdf
+    display:  "Comic book"
+  link2:
+    url: https://dataresponsibly.github.io/comics/vol1/Transcript_es.docx
+    display:  "Transcript"
+  link3:
+    url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
+    display:  "A Note on Accessibility"
+  highlight: 1
