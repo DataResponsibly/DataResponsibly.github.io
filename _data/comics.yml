@@ -18,7 +18,6 @@
   image: Mirror_Cover_es.png
   description: Data, Responsibly comics (Spanish Edition)
   authors: Falaah Arif Khan and Julia Stoyanovich
-  display:  "Huge thanks to Ana Elisa Mendez for helping us translating Mirror, Mirror into Spanish!"
   number_link: 3
   link1:
     url: https://dataresponsibly.github.io/comics/vol1/mirror_es.pdf
@@ -26,13 +25,15 @@
   link2:
     url: https://dataresponsibly.github.io/comics/vol1/Transcript_es.docx
     display:  "Transcript"
+  link3:
+    url: 
+    display:  
   highlight: 1
 
 - title: "Volume 1 - Miroir, mon beau Miroir"
   image: Mirror_Cover_fr.png
   description: Data, Responsibly comics (French Edition)
   authors: Falaah Arif Khan and Julia Stoyanovich
-  display:  "Huge thanks to Serge Abiteboul, Pascal Guitton and Victor Vianu for translating Mirror, Mirror into French!"
   number_link: 3
   link1:
     url: https://dataresponsibly.github.io/comics/vol1/mirror_fr.pdf
@@ -40,4 +41,23 @@
   link2:
     url: https://dataresponsibly.github.io/comics/vol1/Transcript_fr.docx
     display:  "Transcript"
+  link3:
+    url: 
+    display:
+  highlight: 1
+
+- title: "Volume 2 - Fairness and Friends"
+  image: FairFriends_Cover.png
+  description: Data, Responsibly comics
+  authors: Falaah Arif Khan, Eleni Manis and Julia Stoyanovich
+  number_link: 3
+  link1:
+    url:
+    display:  "Coming Soon!"
+  link2:
+    url: 
+    display:
+  link3:
+    url: 
+    display:
   highlight: 1
