@@ -20,9 +20,11 @@
   authors: Falaah Arif Khan and Julia Stoyanovich
   number_link: 3
   link1:
+    display:  "Huge thanks to Ana Elisa Mendez for helping us translating Mirror, Mirror into Spanish!"
+  link2:
     url: https://dataresponsibly.github.io/comics/vol1/mirror_es.pdf
     display:  "Comic book"
-  link2:
+  link3:
     url: https://dataresponsibly.github.io/comics/vol1/Transcript_es.docx
     display:  "Transcript"
   highlight: 1
@@ -33,9 +35,11 @@
   authors: Falaah Arif Khan and Julia Stoyanovich
   number_link: 3
   link1:
+    display:  "Huge thanks to Serge Abiteboul, Pascal Guitton and Victor Vianu for translating Mirror, Mirror into French!"
+  link2:
     url: https://dataresponsibly.github.io/comics/vol1/mirror_fr.pdf
     display:  "Comic book"
-  link2:
+  link3:
     url: https://dataresponsibly.github.io/comics/vol1/Transcript_fr.docx
     display:  "Transcript"
   highlight: 1
