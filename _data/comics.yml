@@ -1,6 +1,6 @@
 - title: "Volume 1 - Mirror, Mirror"
   image: Mirror_Mirror_Cover.png
-  description: Data, Responsibly comic series
+  description: Data, Responsibly comics
   authors: Falaah Arif Khan and Julia Stoyanovich
   number_link: 3
   link1:
@@ -13,9 +13,10 @@
     url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
     display:  "A Note on Accessibility"
   highlight: 1
+
 - title: "Volumen 1 - Espejito, Espejito"
   image: Mirror_Cover_es.png
-  description: Data, Responsibly comic series (Spanish Edition)
+  description: Data, Responsibly comics (Spanish Edition)
   authors: Falaah Arif Khan and Julia Stoyanovich
   number_link: 3
   link1:
@@ -24,7 +25,17 @@
   link2:
     url: https://dataresponsibly.github.io/comics/vol1/Transcript_es.docx
     display:  "Transcript"
-  link3:
-    url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
-    display:  "A Note on Accessibility"
+  highlight: 1
+
+- title: "Volume 1 - Miroir, mon beau Miroir"
+  image: Mirror_Cover_fr.png
+  description: Data, Responsibly comics (French Edition)
+  authors: Falaah Arif Khan and Julia Stoyanovich
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/comics/vol1/mirror_fr.pdf
+    display:  "Comic book"
+  link2:
+    url: https://dataresponsibly.github.io/comics/vol1/Transcript_fr.docx
+    display:  "Transcript"
   highlight: 1
