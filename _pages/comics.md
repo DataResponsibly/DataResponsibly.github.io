@@ -25,7 +25,10 @@ permalink: /comics/
   <pubtit>{{ comi.title }}</pubtit>
   <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
-  
+  {% if comi.translators != 'None' %}
+    <p><small>Translated by {{ comi.translators }}</small></p>
+  {% endif %}
+
   <p><strong><a href="{{ comi.link.url }}">{{ comi.link.display }}</a></strong></p>
   
   {% if comi.number_link == 1 %}
