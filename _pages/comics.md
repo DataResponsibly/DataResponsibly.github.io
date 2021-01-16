@@ -26,7 +26,7 @@ permalink: /comics/
   <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
 
-  <p>{{ comi.translators }}</p>
+  <p style="font-size:13px;">{{ comi.translators }}</p>
 
   <p><strong><a href="{{ comi.link.url }}">{{ comi.link.display }}</a></strong></p>
 
