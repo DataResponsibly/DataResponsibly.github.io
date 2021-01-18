@@ -55,11 +55,11 @@
   number_link: 3
   link1:
     url:
-    display:  "Coming Soon!"
+    display:  "   "
   link2:
     url: 
-    display:
+    display: "Coming Soon!"
   link3:
     url: 
-    display:
+    display: "   "
   highlight: 1
