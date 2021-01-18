@@ -55,10 +55,10 @@
   number_link: 3
   link1:
     url: https://dataresponsibly.github.io/comics
-    display:  "   "
+    display:  "Comic book"
   link2:
     url: https://dataresponsibly.github.io/comics
-    display: " "
+    display: "Transcript"
   link3:
     url: https://dataresponsibly.github.io/comics
     display: "Coming Soon!"
