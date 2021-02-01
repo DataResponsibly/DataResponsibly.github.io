@@ -21,7 +21,7 @@ permalink: /comics/
 <div class="col-sm-6">
  <div class="well row">
   <div class="col-xs-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="50%" height="auto" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="auto" height="auto" style="float: left" />
   </div>
   <div class="col-xs-8">
   <pubtit>{{ comi.title }}</pubtit>
