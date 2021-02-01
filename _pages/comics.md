@@ -20,10 +20,10 @@ permalink: /comics/
 
 <div class="col-sm-6">
  <div class="well">
-    <div class="col-xs-4">
+    <div class="col-sm-4">
         <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" style="float: left" />
     </div>
-    <div class="col-xs-8">
+    <div class="col-sm-8">
         <pubtit>{{ comi.title }}</pubtit>
 
         <p><em>{{ comi.authors }}</em></p>
