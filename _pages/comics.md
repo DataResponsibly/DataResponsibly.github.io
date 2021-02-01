@@ -19,7 +19,7 @@ permalink: /comics/
 {% endif %}
 
 <div class="col-sm-6">
- <div class="well row">
+ <div class="well">
     <div class="col-xs-4">
         <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" style="float: left" />
     </div>
