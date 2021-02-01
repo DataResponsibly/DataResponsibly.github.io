@@ -23,7 +23,7 @@ permalink: /comics/
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" style="float: left" />
   
   <pubtit>{{ comi.title }}</pubtit>
-  <p>{{ comi.description }}</p>
+  
   <p><em>{{ comi.authors }}</em></p>
 
   <p style="font-size:13px;">{{ comi.translators }}</p>
