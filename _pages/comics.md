@@ -20,8 +20,10 @@ permalink: /comics/
 
 <div class="col-sm-6">
  <div class="well">
+  <div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="90%" style="float: left" />
-
+  </div>
+  <div class="col-sm-8">
   <pubtit>{{ comi.title }}</pubtit>
 
   <p><em>{{ comi.authors }}</em></p>
@@ -44,7 +46,7 @@ permalink: /comics/
   <p><strong><a href="{{ comi.link2.url }}">{{ comi.link2.display }}</a></strong></p>
   <p><strong><a href="{{ comi.link3.url }}">{{ comi.link3.display }}</a></strong></p>
   {% endif %}
-
+  </div>
  </div>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
