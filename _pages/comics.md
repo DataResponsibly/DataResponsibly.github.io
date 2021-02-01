@@ -20,7 +20,7 @@ permalink: /comics/
 
 <div class="col-sm-6">
  <div class="well">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" padding-bottom="10%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" padding-bottom="50%" style="float: left" />
   
   <pubtit>{{ comi.title }}</pubtit>
 
