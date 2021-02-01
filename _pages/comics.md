@@ -19,11 +19,11 @@ permalink: /comics/
 {% endif %}
 
 <div class="col-sm-6">
- <div class="well" height="250px">
-  <div class="col-sm-4">
+ <div class="well row">
+  <div class="col-xs-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="50%" height="auto" style="float: left" />
   </div>
-  <div class="col-sm-8">
+  <div class="col-xs-8">
   <pubtit>{{ comi.title }}</pubtit>
   <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
