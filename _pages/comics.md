@@ -25,7 +25,7 @@ permalink: /comics/
   </div>
   <div class="col-sm-8">
   <pubtit>{{ comi.title }}</pubtit>
-
+  <p>{{ comi.description }}</p>
   <p><em>{{ comi.authors }}</em></p>
 
   <p style="font-size:13px;">{{ comi.translators }}</p>
