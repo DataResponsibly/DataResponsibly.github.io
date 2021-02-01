@@ -19,12 +19,10 @@ permalink: /comics/
 {% endif %}
 
 <div class="col-sm-6">
- <div class="well row">
-    <div class="col-xs-4">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" style="float: left" />
-    </div>
-    <div class="col-xs-8">
-        <pubtit>{{ comi.title }}</pubtit>
+ <div class="well">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/{{ comi.image }}" class="img-responsive" width="30%" height="auto" style="float: left" />
+
+    <pubtit>{{ comi.title }}</pubtit>
 
         <p><em>{{ comi.authors }}</em></p>
 
@@ -46,7 +44,7 @@ permalink: /comics/
         <p><strong><a href="{{ comi.link2.url }}">{{ comi.link2.display }}</a></strong></p>
         <p><strong><a href="{{ comi.link3.url }}">{{ comi.link3.display }}</a></strong></p>
         {% endif %}
-    </div>
+
  </div>
 </div>
 
