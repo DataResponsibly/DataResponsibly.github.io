@@ -54,12 +54,9 @@
   authors: Falaah Arif Khan, Eleni Manis and Julia Stoyanovich
   number_link: 3
   link1:
-    url: https://dataresponsibly.github.io/comics
+    url: https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf
     display:  "Comic book"
   link2:
-    url: https://dataresponsibly.github.io/comics
+    url: https://dataresponsibly.github.io/comics/vol2/Script_en.docx
     display: "Transcript"
-  link3:
-    url: https://dataresponsibly.github.io/comics
-    display: "Coming Soon!"
   highlight: 1
