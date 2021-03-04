@@ -1,3 +1,10 @@
+- title: "Fairness and Friends"
+  authors: Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://dataresponsibly.github.io/documents/FairnessandFriends_slides.pdf
+     display: "ACM FAccT (2021), tutorial slides"
+     
 - title: "Responsible Data Management"
   authors: Julia Stoyanovich, Bill Howe, and H.V. Jagadish
   number_link: 1
