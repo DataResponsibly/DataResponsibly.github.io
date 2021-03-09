@@ -10,8 +10,8 @@
     url: https://dataresponsibly.github.io/comics/vol1/Transcript.docx
     display:  "Transcript"
   link3:
-    url: https://dataresponsibly.github.io/comics/vol1/Accessibility.docx
-    display:  "A Note on Accessibility"
+    url:
+    display:
   highlight: 1
 
 - title: "Volumen 1 - Espejito, Espejito"
