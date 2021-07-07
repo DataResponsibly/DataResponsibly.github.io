@@ -68,13 +68,6 @@
     url: https://rdcu.be/b3xJe
     display:  "Nature Machine Intelligence, April 2020"
     
-- title: "Causal intersectionality for fair ranking"
-  authors: Ke Yang, Joshua R. Loftus, and Julia Stoyanovich
-  number_link: 1
-  link:
-    url: https://arxiv.org/abs/2006.08688
-    display:  "arXiv, June 2020"
-    
 - title: "Fairness-Aware Instrumentation of Preprocessing Pipelines for Machine Learning"
   authors: Ke Yang, Biao Huang, Julia Stoyanovich, and Sebastian Schelter
   number_link: 1
