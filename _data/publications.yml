@@ -4,7 +4,20 @@
   link:
     url: https://rdcu.be/ciMw9
     display:  "International Journal of Artificial Intelligence in Education (IJAIED), 2021"
+
+- title: "Causal Intersectionality and Fair Ranking"
+  authors: Ke Yang, Joshua R. Loftus, and Julia Stoyanovich
+  number_link: 1
+    url: https://drops.dagstuhl.de/opus/volltexte/2021/13875/
+    display: "Proceedings of FORC"
     
+- title: "Lightweight Inspection of Data Preprocessing in Native Machine Learning Pipelines"
+  authors: Stefan Grafberger, Julia Stoyanovich, and Sebastian Schelter
+  number_link: 1
+  link:
+   url: http://cidrdb.org/cidr2021/papers/cidr2021%5C_paper27.pdf
+   display: "Proceedings of CIDR 2021"
+   
 - title: "Taming Technical Bias in Machine Learning Pipelines"
   authors: Sebastian Schelter and Julia Stoyanovich
   number_link: 1
