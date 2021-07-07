@@ -69,6 +69,9 @@
   link1:
     url: http://bit.ly/we-are-aicomicsvol1
     display:  "Comic book"
+  link2:
+    url:
+    display:
   highlight: 1
   
 - title: "We are AI (Vol 2) Learning from data"
@@ -84,7 +87,7 @@
 - title: "We are AI (Vol 3) Who lives, who dies, who decides?"
   image: weareai3-cover.png
   description: We are AI comics
-  authors: Julia Stoyanovich and Mona Sloane and Falaah Arif Khan 
+  authors: Julia Stoyanovich, Mona Sloane and Falaah Arif Khan 
   number_link: 3
   link1:
     url: http://bit.ly/we-are-ai_comics_vol3_en
