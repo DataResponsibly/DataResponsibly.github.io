@@ -60,3 +60,13 @@
     url: https://dataresponsibly.github.io/comics/vol2/Script_en.docx
     display: "Transcript"
   highlight: 1
+  
+  - title: "We are AI; Volume 1 - What is AI?"
+  image: we-are-ai/img/1-cover.png
+  description: We are AI comics
+  authors: Julia Stoyanovich and Falaah Arif Khan 
+  number_link: 1
+  link1:
+    url: http://bit.ly/we-are-aicomicsvol1
+    display:  "Comic book"
+  highlight: 1
