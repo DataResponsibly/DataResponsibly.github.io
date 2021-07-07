@@ -1,3 +1,10 @@
+- title: "Teaching Responsible Data Science: Charting New Pedagogical Territory"
+  authors: Julia Stoyanovich and Armanda Lewis
+  number_link: 1
+  link:
+    url: https://rdcu.be/ciMw9
+    display:  "International Journal of Artificial Intelligence in Education (IJAIED), 2021"
+    
 - title: "Fairness in Ranking: A Survey"
   authors: Meike Zehlike, Ke Yang, and Julia Stoyanovich
   number_link: 1
@@ -66,13 +73,6 @@
   link3:
     url: https://dataresponsibly.github.io/documents/FairPrep_EDBTtalk.mp4
     display:  "EDBT talk video"
-    
-- title: "Teaching Responsible Data Science: Charting New Pedagogical Territory"
-  authors: Julia Stoyanovich and Armanda Lewis
-  number_link: 1
-  link:
-    url: https://arxiv.org/abs/1912.10564
-    display:  "arXiv, December 2019"
 
 - title: "Balanced Ranking with Diversity Constraints"
   authors: Ke Yang, Vasilis Gkatzelis, and Julia Stoyanovich
