@@ -1,4 +1,4 @@
-- title: "Data, Responsibly; Volume 1 - Mirror, Mirror"
+- title: "Data, Responsibly (Vol. 1) Mirror, Mirror"
   image: Mirror_Mirror_Cover.png
   description: Data, Responsibly comics
   authors: Falaah Arif Khan and Julia Stoyanovich
@@ -14,7 +14,7 @@
     display:
   highlight: 1
 
-- title: "Data, Responsibly; Volumen 1 - Espejito, Espejito"
+- title: "Data, Responsibly (Vol. 1) Espejito, Espejito"
   image: Mirror_Cover_es.png
   description: Data, Responsibly comics (Spanish Edition)
   authors: Falaah Arif Khan and Julia Stoyanovich
@@ -31,7 +31,7 @@
     display:  
   highlight: 1
 
-- title: "Data, Responsibly; Volume 1 - Miroir, mon beau Miroir"
+- title: "Data, Responsibly (Vol. 1) Miroir, mon beau Miroir"
   image: Mirror_Cover_fr.png
   description: Data, Responsibly comics (French Edition)
   authors: Falaah Arif Khan and Julia Stoyanovich
@@ -48,7 +48,7 @@
     display:
   highlight: 1
 
-- title: "Data, Responsibly; Volume 2 - Fairness and Friends"
+- title: "Data, Responsibly (Vol. 2) Fairness and Friends"
   image: FairFriends_Cover.png
   description: Data, Responsibly comics
   authors: Falaah Arif Khan, Eleni Manis and Julia Stoyanovich
@@ -61,7 +61,7 @@
     display: "Transcript"
   highlight: 1
   
-  - title: "We are AI; Volume 1 - What is AI?"
+  - title: "We are AI (Vol 1) What is AI?"
   image: we-are-ai/img/1-cover.png
   description: We are AI comics
   authors: Julia Stoyanovich and Falaah Arif Khan 
