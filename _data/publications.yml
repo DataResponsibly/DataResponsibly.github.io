@@ -1,3 +1,24 @@
+- title: "Fairness in Ranking: A Survey"
+  authors: Meike Zehlike, Ke Yang, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2103.14000
+     display: arXiv
+
+- title: "Impact Remediation: Optimal Interventions to Reduce Inequality"
+  authors: Lucius E. J. Bynum, Joshua R. Loftus, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2107.00593
+     display: arXiv
+     
+- title: "Fairness as Equality of Opportunity: Normative Guidance from Political Philosophy"
+  authors: Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2106.08259
+     display: arXiv
+
 - title: "Fairness and Friends"
   authors: Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich
   number_link: 1
