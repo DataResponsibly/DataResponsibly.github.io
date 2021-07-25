@@ -11,7 +11,14 @@
   link:
     url: https://drops.dagstuhl.de/opus/volltexte/2021/13875/
     display: "Proceedings of FORC 2021"
-    
+
+- title: "Algorithmic Techniques for Necessary and Possible Winners"
+  authors: Vishal Chakraborty, Theo Delemazure, Benny Kimelfeld, Phokion G. Kolaitis, Kunal Relia, and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://doi.org/10.1145/3458472
+    display: "ACM/IMS Transactions on Data Science"
+
 - title: "Lightweight Inspection of Data Preprocessing in Native Machine Learning Pipelines"
   authors: Stefan Grafberger, Julia Stoyanovich, and Sebastian Schelter
   number_link: 1
