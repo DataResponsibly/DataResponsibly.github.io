@@ -132,3 +132,58 @@
   highlight: 1
 
 
+- title: "Somos IA (Vol 1) ¿Qué es la IA?"
+  image: vol1_es_cover.png
+  description: We are AI comics (Spanish edition)
+  authors: Julia Stoyanovich and Falaah Arif Khan 
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/we-are-ai/comics/vol1_es.pdf
+    display:  "Comic book"
+  link2:
+    url:
+    display:
+  highlight: 1
+  
+- title: "Somos IA (Vol 2) Aprender de los datos"
+  image: vol2_es_cover.png
+  description: We are AI comics (Spanish edition)
+  authors: Julia Stoyanovich and Falaah Arif Khan 
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/we-are-ai/comics/vol2_es.pdf
+    display:  "Comic book"
+  highlight: 1
+  
+- title: "Somos IA (Vol 3) ¿Quién vive, quién muere, quién decide?"
+  image: vol3_es_cover.png
+  description: We are AI comics (Spanish edition)
+  authors: Julia Stoyanovich, Mona Sloane and Falaah Arif Khan 
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/we-are-ai/comics/vol3_es.pdf
+    display:  "Comic book"
+  highlight: 1
+  
+- title: "Somos IA (Vol 4) Todo Sobre el Sesgo"
+  image: vol4_es_cover.png
+  description: We are AI comics (Spanish edition)
+  authors: Julia Stoyanovich and Falaah Arif Khan 
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/we-are-ai/comics/vol4_es.pdf
+    display:  "Comic book"
+  highlight: 1
+
+- title: "Somos IA (Vol 5) Somos IA"
+  image: vol5_es_cover.png
+  description: We are AI comics (Spanish edition)
+  authors: Julia Stoyanovich and Falaah Arif Khan 
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/we-are-ai/comics/vol5_es.pdf
+    display:  "Comic book"
+  highlight: 1
+
+
+
