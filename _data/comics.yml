@@ -185,5 +185,15 @@
     display:  "Comic book"
   highlight: 1
 
+- title: "  Η ΤΝ είμαστε εμείς #1:Τι είναι η ΤΝ"
+  image: vol1_gk_cover.png
+  description: We are AI Vol1 (Greek edition)
+  authors: Julia Stoyanovich and Falaah Arif Khan
+  translators: Translated by Evaggelia Pitoura and Eirini Ntoutsi
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/comics/we-are-ai/Vol1_gk.pdf
+    display:  "Comic book (in Greek)"
+  highlight: 1
 
 
